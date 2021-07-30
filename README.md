@@ -9,4 +9,4 @@ Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown in
 
 ##References
 
-[^ref1]:Ariel Levy, “The Drug of Choice for the Age of Kale.” The New Yorker, September 4, 2016. https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s.
+[^ref1]: Ariel Levy, “The Drug of Choice for the Age of Kale.” The New Yorker, September 4, 2016. https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s.
