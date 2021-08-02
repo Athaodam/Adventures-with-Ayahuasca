@@ -17,6 +17,11 @@ On a pharmacological level, ayahuasca harnesses the chemical effects caused by t
 
 Additionally, exact recipes are often closely guarded by Indigenous knowledge keepers known as ayahuasqueros or vegetalistas, and precise measurements of the ingredients are not always recorded. Beyond the variability of the recipes, naming the plant species used in ayahuasca decoctions is at times complicated by vernacular naming traditions. Different Indigenous groups classify plants according to different criteria (leaf shape/size/breadth/flowering vs. non-flowering, the effects of the plant on the human body, the color of the decoction made from the plant, as well as the guardian spirits associated with the plant).[^ref5] These unique classification systems at times identify the same plant species as several different species. These “different” species are used to create brews with varying strength and purpose.[^ref6]
 
+## Ayahuasca in Practice
+
+
+
+
 ## Representing Ayahuasca with the Senses
 
 While conducting his groundbreaking research on ayahuasca rituals amongst the mestizo population in the Peruvian Amazon, anthropologist Luis Eduardo Luna encountered the curandero Pablo Amaringo. Wanting to know more about Amaringo’s experiences with the brew, Luna provided him with paper and tempera paints and asked him to draw his visions. For Amaringo, the visual was a key component in ayahuasca’s efficacy. “The Spirits don’t talk,” he explains, “but express themselves through images.” Full of bright colors, elaborate patterns, and fantastical scenes, Amaringo’s paintings both attempt to reproduce the effects of ayahuasca and point to the knowledge and wisdom derived from the rituals. Furthermore, according to Amaringo, the brew transformed him into an artist by teaching him how to see and understand colors. In this example, Amaringo represents the corpus of Indigenous botanical knowledge and the ways practitioners might access that knowledge through ayahuasca, fasting, and chanting. 
@@ -25,6 +30,11 @@ For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, a
 <param ve-image url="https://americanindian.si.edu/exhibitions/infinityofnations/images/amazon/239608_900.jpg"
        label="Shipibo _ainbo chomo_. ca. 1965. San Francisco de Yarinacocha, Peru. Clay and paint. National Museum of the American Indian, Washington D.C. 
        description="Water vessel in the form of a woman">
+                                                        
+                                                        
+## Ethnobotanical Encounters 
+## Ayahuasca's Global Trip 
+  
 
 ## References
 
