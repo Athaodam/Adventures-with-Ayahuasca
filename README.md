@@ -45,6 +45,7 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing bet
 
 The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of Banisteriopsis caapi. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref32] Miller’s actions are best described as biopiracy and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
 
+The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref33] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States.                                
 ## References
 
 [^ref1]: Ariel Levy, “The Drug of Choice for the Age of Kale.” The New Yorker, September 4, 2016. https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s.
@@ -57,5 +58,5 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
 [^ref30]:  Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 151–79.                            
 [^ref31]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 180–203.
 [^ref32]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” Boston College Third World Law Journal 21, no. 1 (January 2001): 84-85.
-                               
+[^ref33]:  Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” (Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000.                               
 
