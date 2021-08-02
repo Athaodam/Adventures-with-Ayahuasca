@@ -19,8 +19,9 @@ Additionally, exact recipes are often closely guarded by Indigenous knowledge ke
 
 ## Ayahuasca in Practice
 
+The use of Banisteriopsis caapi and Psychotria viridis dates back at least one thousand years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that  Banisteriopsis caapi and Psychotria viridis were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.
 
-
+Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible. By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them. Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.  
 
 ## Representing Ayahuasca with the Senses
 
