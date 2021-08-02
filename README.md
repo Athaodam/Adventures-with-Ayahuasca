@@ -34,6 +34,10 @@ For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, a
                                                         
 ## Ethnobotanical Encounters 
 ## Ayahuasca's Global Trip 
+Today, many in the West are most familiar with ayahuasca not through Indigenous knowledge systems and practices, but through its incorporation into New Age spiritualism. Following in the footsteps of Americans like Burroughs, by the late twentieth century westerners were flocking to Amazonia in search of an authentic experience with the brew. So profitable was this new fascination with the hallucinogen, that an entire industry of ayahuasca tourism began to flourish in the Amazon basin. As a result, ayahuasca rituals were westernized to focus on self-exploration and emotional healing under the leadership of new “gringo shamans” and exported in vast networks, particularly in the United States and Canada, but also through Europe, Africa, and Asia.[ref^29]
+                                      
+<param ve-entity eid= "Q183308"> <!--New Age Spiritualism--> 
+                                                        
   
 
 ## References
@@ -44,6 +48,6 @@ For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, a
 [^ref4]: McKenna, 2004 and Szára, 2007  in Frecska, Bokor, and Winkelman 2016, 2
 [^ref5]: Center for Western Studies (Flagstaff, Journal of Ethnobiology., vol. v. 6-7 1986-87 (Flagstaff, Ariz. :Center for Western Studies, 1986): 235.
 [^ref6]: Ibid, 236.
-
+[ref^29]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
 
 
