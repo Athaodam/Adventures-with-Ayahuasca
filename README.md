@@ -38,7 +38,12 @@ Today, many in the West are most familiar with ayahuasca not through Indigenous 
                                       
 <param ve-entity eid= "Q183308"> <!--New Age Spiritualism--> 
                                                         
-  
+ 
+Scholars have debated at length about the contemporary global usage of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of extractive colonialism as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping real Indigenous shamans living in the modern world. [^ref30]  On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism. [^ref31]
+
+In truth, ayahuasca rituals have always been dynamic and multiple, differing between ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called _Vegetalismo_, which was inflected by both Catholicism and traditional Indigenous knowledges. Vegetalistas consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. Likewise, a Brazilian minister raised in an ethnically diverse rubber boom town founded the syncretic church of _Santo Daime_ based on Catholicism, African animism, and Indigenous vegetalismo, which uses ayahuasca extensively in its rituals. _Santo Daime_ itself spread globally, with churches in the United States, Canada, and Europe.                              
+
+The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of Banisteriopsis caapi. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref32] Miller’s actions are best described as biopiracy and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
 
 ## References
 
@@ -48,6 +53,9 @@ Today, many in the West are most familiar with ayahuasca not through Indigenous 
 [^ref4]: McKenna, 2004 and Szára, 2007  in Frecska, Bokor, and Winkelman 2016, 2
 [^ref5]: Center for Western Studies (Flagstaff, Journal of Ethnobiology., vol. v. 6-7 1986-87 (Flagstaff, Ariz. :Center for Western Studies, 1986): 235.
 [^ref6]: Ibid, 236.
-[ref^29]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
-
+[^ref29]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
+[^ref30]:  Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 151–79.                            
+[^ref31]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 180–203.
+[^ref32]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” Boston College Third World Law Journal 21, no. 1 (January 2001): 84-85.
+                               
 
