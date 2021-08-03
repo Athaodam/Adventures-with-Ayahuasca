@@ -28,6 +28,8 @@ The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least o
        description="Ceramic bowl, pedestal base, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm" 
        license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" 
        repository="Peabody Museum of Archaeology and Ethnology"> 
+       
+<param ve-image label=" Aguarico Ceramic bowl for ayahuasca decoctions" description="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions" description="Ceramic bowl, pedestal base, mended, reconstructed, red exterior, black interio, 9.9 cm x 17.4 cm" license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" repository="Peabody Museum of Archaeology and Ethnology"" url="https://library.artstor.org/#/asset/AHARVARDIG_10313860310;prevRouteTS=1627914893179"> 
 
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref8] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref9] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref10]  
 
@@ -42,6 +44,29 @@ For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, a
                                                         
                                                         
 ## Ethnobotanical Encounters 
+The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
+<!--timeline coming soon--> 
+                                                        
+Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-click-image-zoomto="2|178,956,586,471">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
+
+<param ve-image 
+       manifest="https://www.wdl.org/en/item/1137/manifest"
+       label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707" 
+       description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes" 
+       attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01"
+       license="Public Domain"
+       ref="1">
+     
+<param ve-image
+       manifest="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
+       label="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
+       description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
+       attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
+       license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
+       ref="2"> 
+     <!--still need to add an annotation that translates this portion of the text--> 
+           
+                                                        
 ## Ayahuasca's Global Trip 
 Today, many in the West are most familiar with ayahuasca not through Indigenous knowledge systems and practices, but through its incorporation into New Age spiritualism. Following in the footsteps of Americans like Burroughs, by the late twentieth century westerners were flocking to Amazonia in search of an authentic experience with the brew. So profitable was this new fascination with the hallucinogen, that an entire industry of ayahuasca tourism began to flourish in the Amazon basin. As a result, ayahuasca rituals were westernized to focus on self-exploration and emotional healing under the leadership of new “gringo shamans” and exported in vast networks, particularly in the United States and Canada, but also through Europe, Africa, and Asia.[^ref29]
                                       
