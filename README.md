@@ -19,7 +19,7 @@ Additionally, exact recipes are often closely guarded by Indigenous knowledge ke
 
 ## Ayahuasca in Practice
 
-The use of Banisteriopsis caapi and Psychotria viridis dates back at least one thousand years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that  Banisteriopsis caapi and Psychotria viridis were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.[^ref7]
+The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least one thousand years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that  Banisteriopsis caapi and Psychotria viridis were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.[^ref7]
 
 <param ve-image 
        label=" Aguarico Ceramic bowl for ayahuasca decoctions" 
@@ -29,8 +29,6 @@ The use of Banisteriopsis caapi and Psychotria viridis dates back at least one t
        license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" 
        repository="Peabody Museum of Archaeology and Ethnology"> 
 
-<param ve-image label=" Aguarico Ceramic bowl for ayahuasca decoctions" description="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions" description="Ceramic bowl, pedestal base, mended, reconstructed, red exterior, black interio, 9.9 cm x 17.4 cm" license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" repository="Peabody Museum of Archaeology and Ethnology"" url="https://library.artstor.org/#/asset/AHARVARDIG_10313860310;prevRouteTS=1627914893179"> 
-
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref8] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref9] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref10]  
 
 ## Representing Ayahuasca with the Senses
@@ -39,7 +37,7 @@ While conducting his groundbreaking research on ayahuasca rituals amongst the me
 
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe. 
 <param ve-image url="https://americanindian.si.edu/exhibitions/infinityofnations/images/amazon/239608_900.jpg"
-       label="Shipibo _ainbo chomo_. ca. 1965. San Francisco de Yarinacocha, Peru. Clay and paint. National Museum of the American Indian, Washington D.C. 
+       label="Shipibo _ainbo chomo_. ca. 1965. San Francisco de Yarinacocha, Peru. Clay and paint. National Museum of the American Indian, Washington D.C." 
        description="Water vessel in the form of a woman">
                                                         
                                                         
