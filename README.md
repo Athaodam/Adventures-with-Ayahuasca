@@ -45,8 +45,9 @@ For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, a
                                                         
 ## Ethnobotanical Encounters 
 The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
-<!--timeline coming soon--> 
-                                                        
+
+<param ve-knightlab-timeline="" source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw" font="Lustria-Lato" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="650">
+                                                                                                      
 Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-click-image-zoomto="2|178,956,586,471">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
 
 <param ve-image 
@@ -65,6 +66,37 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2"> 
      <!--still need to add an annotation that translates this portion of the text--> 
+
+In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_. Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
+<!--new paragraph, still needs editing and references--> 
+
+<param ve-image
+       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
+       url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
+       description="Colored engravings of two Psychotria species collected in the Peruvian Andes, including the DMT-bearing species P. viridis"
+       attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
+       license="Public Domain"
+       fit="contain"
+       ref="1">
+       
+<param ve-image
+       manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
+       label="Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802"
+       description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles."
+       attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
+       license="Public Domain"
+       region="1295,1326,1904,1529"
+       ref="2">
+       
+Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the Ticuna in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region. Pinto Rubens’ work stands out from previous missionary accounts because it has great ethnographic detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a pagé who apparently is using ayahuasca to understand their patient’s ailment and find a cure. 
+
+<param ve-image
+       url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg"
+       label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé in Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873"
+       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
+       attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
+       license= "Public Domain"
+       rotate= "90"> 
            
                                                         
 ## Ayahuasca's Global Trip 
