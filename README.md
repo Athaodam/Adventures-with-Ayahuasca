@@ -38,7 +38,7 @@ Consuming ayahuasca produces a roughly four hour long period of altered consciou
 While conducting his groundbreaking research on ayahuasca rituals amongst the <span ve-entity eid="Q106713">_mestizo_</span> population in the Peruvian Amazon, anthropologist Luis Eduardo Luna encountered the <span ve-entity eid="Q547457">_curandero_</span> <span ve-entity eid="Q2511028">Pablo Amaringo</span>. Wanting to know more about Amaringo’s experiences with the brew, Luna provided him with paper and <span ve-entity eid="Q175166">tempera</span> paints and asked him to draw his visions. For Amaringo, the visual was a key component in ayahuasca’s efficacy. “The Spirits don’t talk,” he explains, “but express themselves through images.” Full of bright colors, elaborate patterns, and fantastical scenes, Amaringo’s paintings both attempt to reproduce the effects of ayahuasca and point to the knowledge and wisdom derived from the rituals. Furthermore, according to Amaringo, the brew transformed him into an artist by teaching him how to see and understand colors. In this example, Amaringo represents the corpus of Indigenous botanical knowledge and the ways practitioners might access that knowledge through ayahuasca, fasting, and chanting.
 
 <param ve-image 
-       label="Pablo Amaringo, _Huarmi Taquina_ , 2005" 
+       label="Pablo Amaringo, Huarmi Taquina, 2005" 
        url="https://thatcreativefeeling.com/wp-content/uploads/Pablo-Amaringo-1.jpg"
        description="Gouache on paper, 22 1/2 x 30 3/8 in.">
 
