@@ -30,7 +30,10 @@ The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least o
        license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" 
        repository="Peabody Museum of Archaeology and Ethnology"> 
        
-<param ve-image label=" Aguarico Ceramic bowl for ayahuasca decoctions" description="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions" description="Ceramic bowl, pedestal base, mended, reconstructed, red exterior, black interio, 9.9 cm x 17.4 cm" license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" repository="Peabody Museum of Archaeology and Ethnology"" url="https://library.artstor.org/#/asset/AHARVARDIG_10313860310;prevRouteTS=1627914893179"> 
+<!--param ve-image <ceramic bowl 2, peabody collection-->
+<!--param ve-image <ceramic bowl 3, peabody collection-->
+<!--param ve-image mixing bowl, peabody collection-->
+<!--param ve-image preserved ayahuasca bundle, peabody collection-->
 
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref8] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref9] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref10]  
 
