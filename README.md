@@ -218,7 +218,7 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing bet
        url="https://live.staticflickr.com/3020/2898937218_d28c164528_h.jpg"
        label="Cooking Ayahuasca in Céu do Juruá, Brazil"
        description="Members of the Church of Santo Daime use ayahuasca as important part of ritual practice. The cross of Santo Daime, seen in the image, is based on the Christian cross, and symbolizes the mission of Jesus. Santo Daime is a syncretic religion that combines Christian teachings with the belief systems of Indigenous Amazonia and Africa."
-       attributiton="Lou Gold">
+       attribution="Lou Gold">
 
 The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref32] Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
 <param ve-entity eid="Q1129883"><!--COICA-->
