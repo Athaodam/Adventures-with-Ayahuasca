@@ -94,7 +94,7 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        ref="2">
        
 Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the Ticuna in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region. Pinto Rubens’ work stands out from previous missionary accounts because it has great ethnographic detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a pagé who apparently is using ayahuasca to understand their patient’s ailment and find a cure. 
-<param ve-entity eid="Q5363631"><!--Ticuna--> 
+<param ve-entity eid="Q5363631" aliases="Ticuna"><!--Ticuna--> 
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg"
        label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé in Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873"
@@ -105,7 +105,7 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
 
 While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine (_Banisteria caapi_) and included a whole section of notes in his posthumous book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Because of this, Spruce is considered to be the pioneer of ayahuasca studies in the modern scientific world. 
 <param ve-entity eid="Q1349394"><!--Richard Spruce--> 
-<param ve-entity eid="Q213782"><!--Putumayo River--> 
+<param ve-entity eid="Q213782" aliases="Putumayo region"><!--Putumayo River--> 
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
        label="Coverpage of Notes of a Botanist in the Andes and the Amazon (1908), this posthomous work was edited by his fellow naturalist friend, Alfred R. Wallace"
@@ -146,9 +146,9 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
         license="Public Domain">
 <!--personally I don't like how the curtain option looks in this, especially because it's not showing the title labels so it's hard to understand that I'm presenting a translation here--> 
 
-**Option B - modified text and regular image gallery** However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño creole scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless. Villavicencio did include other important ethnobotanical details such as the use of a “guayusa” brew (Ilex guayusa) to purge the ayahuasca drinker before the ceremony.  Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities. These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
-<param ve-entity eid="Q2723612"><!--Záparo-->   
-<param ve-entity eid="Q1296766"><!--Jívaro--> 
+**Option B - modified text and regular image gallery** However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño creole scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless. Villavicencio did include other important ethnobotanical details such as the use of a “guayusa” brew (_Ilex guayusa_) to purge the ayahuasca drinker before the ceremony.  Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities. These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
+<param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
+<param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/475,/0/default.jpg"
