@@ -6,6 +6,11 @@
        layout="vertical">
 
 Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown increasingly common throughout the world. Spurred by interest in Indigenous Amazonian groups, New Age spiritual practices, and the exoticizing travel writing, ayahuasca has attained the status of “The Drug of Choice for the Age of Kale,” according to a recent article in The New Yorker.[^ref1] Despite its global popularity, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested.
+<param ve-image url="https://live.staticflickr.com/7923/32072160867_4682e25222_5k.jpg"
+       label="Vines of Banisteriopsis caapi for Ayahuasca"
+       attribution="upsilon"
+       license="CC BY 2.0">
+       
 
 ## Ayahuasca: A plant or a brew?
 
