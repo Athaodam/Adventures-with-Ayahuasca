@@ -17,6 +17,8 @@ On a pharmacological level, ayahuasca harnesses the chemical effects caused by t
 <param ve-plant-specimen eid= "Q1939784" max="1">
 
 Additionally, exact recipes are often closely guarded by Indigenous knowledge keepers known as _ayahuasqueros_ or _vegetalistas_, and precise measurements of the ingredients are not always recorded. Beyond the variability of the recipes, naming the plant species used in ayahuasca decoctions is at times complicated by vernacular naming traditions. Different Indigenous groups classify plants according to different criteria (leaf shape/size/breadth/flowering vs. non-flowering, the effects of the plant on the human body, the color of the decoction made from the plant, as well as the guardian spirits associated with the plant).[^ref5] These unique classification systems at times identify the same plant species as several different species. These “different” species are used to create brews with varying strength and purpose.[^ref6]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/92/Preparado.JPG"
+       label=Ayahuasca Preparation">
 
 ## Ayahuasca in Practice
 
