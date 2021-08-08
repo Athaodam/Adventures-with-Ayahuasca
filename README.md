@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Ayahuasca:" 
+       title="Ayahuasca: Whose Vine is it Anyway?" 
        banner="" 
        layout="vertical">
 
