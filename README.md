@@ -2,8 +2,9 @@
 
 <param ve-config 
        title="Ayahuasca: Whose Vine is it Anyway?" 
-       banner="" 
-       layout="vertical">
+       banner="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg" 
+       layout="vertical"
+       rotate= "90">
 
 Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown increasingly common throughout the world. Spurred by interest in Indigenous Amazonian groups, New Age spiritual practices, and the exoticizing travel writing, ayahuasca has attained the status of “The Drug of Choice for the Age of Kale,” according to a recent article in The New Yorker.[^ref1] Despite its global popularity, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested.
 <param ve-image url="https://live.staticflickr.com/7876/46099384765_985b9299b8_k.jpg"
