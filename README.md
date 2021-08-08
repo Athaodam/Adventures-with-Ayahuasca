@@ -45,7 +45,7 @@ Consuming ayahuasca produces a roughly four hour long period of altered consciou
 
 ## Representing Ayahuasca with the Senses
 
-While conducting his groundbreaking research on ayahuasca rituals amongst the <span ve-entity eid="Q106713">_mestizo_</span> population in the Peruvian Amazon, anthropologist Luis Eduardo Luna encountered the <span ve-entity eid="Q547457">_curandero_</span> <span ve-entity eid="Q2511028">Pablo Amaringo</span>. Wanting to know more about Amaringo’s experiences with the brew, Luna provided him with paper and <span ve-entity eid="Q175166">tempera</span> paints and asked him to draw his visions. For Amaringo, the visual was a key component in ayahuasca’s efficacy. “The Spirits don’t talk,” he explains, “but express themselves through images.” Full of bright colors, elaborate patterns, and fantastical scenes, Amaringo’s paintings both attempt to reproduce the effects of ayahuasca and point to the knowledge and wisdom derived from the rituals. Furthermore, according to Amaringo, the brew transformed him into an artist by teaching him how to see and understand colors. In this example, Amaringo represents the corpus of Indigenous botanical knowledge and the ways practitioners might access that knowledge through ayahuasca, fasting, and chanting.
+While conducting his groundbreaking research on ayahuasca rituals amongst the <span ve-entity eid="Q106713">_mestizo_</span> population in the Peruvian Amazon, anthropologist Luis Eduardo Luna encountered the <span ve-entity eid="Q547457">_curandero_</span> <span ve-entity eid="Q2511028">Pablo Amaringo</span>. Wanting to know more about Amaringo’s experiences with the brew, Luna provided him with paper and <span ve-entity eid="Q175166">tempera</span> paints and asked him to draw his visions. For Amaringo, the visual was a key component in ayahuasca’s efficacy. “The Spirits don’t talk,” he explains, “but express themselves through images.”[^ref13] Full of bright colors, elaborate patterns, and fantastical scenes, Amaringo’s paintings both attempt to reproduce the effects of ayahuasca and point to the knowledge and wisdom derived from the rituals. Furthermore, according to Amaringo, the brew transformed him into an artist by teaching him how to see and understand colors. In this example, Amaringo represents the corpus of Indigenous botanical knowledge and the ways practitioners might access that knowledge through ayahuasca, fasting, and chanting.
 
 <param ve-image 
        label="Pablo Amaringo, Huarmi Taquina, 2005" 
@@ -257,6 +257,21 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
 [^ref8]:Eduardo Viveiros de Castro, “Cosmological Deixis and Amerindian Perspectivism,” The Journal of the Royal Anthropological Institute 4, no. 3 (1998): 469–88.
 [^ref9]:Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in The Ethnopharmacology of Ayahuasca, ed. Rafael Guimarães dos Santos (Kerala: Transworld Research Network, 2011), 8.
 [^ref10]:Frecska, Bokor, and Winkelman 2016.
+[^ref11]:
+[^ref12]:
+[^ref13]: Quoted in Robert Sirko, “The Artist and the Shaman: Seen and Unseen Worlds,” in Inner Visions: Sacred Plants,
+Art and Spirituality (Valparaiso, IN: Brauer Museum of Art, 2015): 51.
+[^ref14]: Ibid, 69. Peter Roe, and Manuel Rengifo Barbaran. “Shipibo Ainbo Chomo - Infinity of Nations: Art and History
+in the Collections of the National Museum of the American Indian” Accessed July 28, 2021.
+https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html.
+[^ref15]: Rich Doyle, “Hyperbolic: Divining Ayahuasca,” Discourse 27, no. 1 (2005): 7.
+[^ref16]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La
+Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26.
+[^ref17]:
+[^ref18]:
+[^ref19]:
+[^ref20]:
+
 [^ref29]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
 [^ref30]:  Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 151–79.                            
 [^ref31]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 180–203.
