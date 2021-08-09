@@ -1,7 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Ayahuasca: Whose Vine is it Anyway?" 
+       title="Ayahuasca: Whose Vine is it Anyway?"
+       author= Erin, Diana, Rachel, & Thao 
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg" 
        layout="vertical"
        rotate= "90">
