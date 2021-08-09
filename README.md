@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Ayahuasca: Whose Vine is it Anyway?"
-       author= Erin, Diana, Rachel, & Thao 
+       authors= Team P. Viridis
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg" 
        layout="vertical"
        rotate= "90">
