@@ -11,7 +11,10 @@ Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown in
        label="Preparing Ayahuasca"
        attribution="upsilon"
        license="CC BY 2.0">
-       
+
+<param ve-entity eid="Q380436"> <!--ayahuasca--> 
+<param ve-entity eid="Q8546690"> <!--indigenous amazonian groups-->
+<param ve-entity eid="Q183308"> <!--new age spiritualism-->
 
 ## Ayahuasca: A plant or a brew?
 
@@ -22,12 +25,26 @@ On a pharmacological level, ayahuasca harnesses the chemical effects caused by t
 <param ve-plant-specimen eid="Q133533" max="1">
 <param ve-plant-specimen eid= "Q1939784" max="1">
 
+<param ve-entity eid="Q5218"> <!--quechua--> 
+<param ve-entity eid="Q2841453"> <!-- Amazonia--> 
+<param ve-entity eid="Q414226"> <!--BCarboline--> 
+<param ve-entity eid="Q407217"> <!--DMT-->  
+
+
+
 Additionally, exact recipes are often closely guarded by Indigenous knowledge keepers known as _ayahuasqueros_ or _vegetalistas_, and precise measurements of the ingredients are not always recorded. Beyond the variability of the recipes, naming the plant species used in ayahuasca decoctions is at times complicated by vernacular naming traditions. Different Indigenous groups classify plants according to different criteria (leaf shape/size/breadth/flowering vs. non-flowering, the effects of the plant on the human body, the color of the decoction made from the plant, as well as the guardian spirits associated with the plant).[^ref5] These unique classification systems at times identify the same plant species as several different species. These “different” species are used to create brews with varying strength and purpose.[^ref6]
+
+
+<param ve-entity eid="Q7918350"> <!--vegetalismo-->
+
 
 
 ## Ayahuasca in Practice
 
 The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least one thousand years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that  _Banisteriopsis caapi_ and _Psychotria viridis_ were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.[^ref7]
+
+<param ve-entity eid="Q61750"> <!--Tiwanaku-->
+
 
 <param ve-image 
        label=" Aguarico Ceramic bowl for ayahuasca decoctions" 
