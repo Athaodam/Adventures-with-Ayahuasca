@@ -170,6 +170,11 @@ However, Spruce did not obtain all of the information through first hand intervi
 <param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
 <param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
+<param ve-entity eid="Q498640"> <!--Creole-->
+<param ve-entity eid="Q7102414"> <!--Oriental Ecuador-->
+<param ve-entity eid="Q8680"> <!--British Empire--> 
+
+
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/475,/0/default.jpg"
        label="En route to the deep Amazon via the Napo River in Geografía del Ecuador"
@@ -202,7 +207,10 @@ However, Spruce did not obtain all of the information through first hand intervi
 
 Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s. Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own. It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.
 <param ve-entity eid="Q1124975"><!--Richard Evans Schultes-->
-<param ve-entity eid="Q17053771"><!--Yage Letters-->                    
+<param ve-entity eid="Q188176"> <!--William S. Burroughs--> 
+<param ve-entity eid="Q17053771"><!--Yage Letters-->    
+<param ve-entity eid="Q4826265"><!--autoethnography-->
+
  <param ve-image
         url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2020/08/Schultes_amazon_1940s-1186x1536.jpg"
         label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia"
@@ -247,7 +255,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
         fit="contain"> <!--still need to double check this D:--> 
                      
 The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref33] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
-                     
+<param ve-entity eid="Q1122595"> <!--field museum-->                 
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
        label="Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman"
