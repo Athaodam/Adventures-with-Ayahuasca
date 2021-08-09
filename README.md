@@ -21,15 +21,14 @@ Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown in
 Although many associate ayahuasca with a particular species of plant, it actually refers to a group of Indigenous psychoactive brews made by boiling a combination of species found in certain regions of Amazonia. The name ayahuasca is a compound word in the Quechua language: _aya_ refers to “soul, ancestors, or dead persons” while _wasca_ refers to “vine or rope.” Popular translations of the name allude to “vine of the soul,” while skeptics suggest “rope of death.”[^ref2] However, Ayahuasca is known by many names such as _natema, hoasca, daime, yagé,_ or _yajé_ among groups living in Ecuador, Colombia, Peru, and Brazil.
 
 On a pharmacological level, ayahuasca harnesses the chemical effects caused by the mixture of plants that contain _β-carboline_ type alkaloids (such as harmine and tetrahydroharmine) and _Dimethyltryptamine_ (DMT) to produce a hallucinogenic state within the consumer.[^ref3] There are many traditions associated with the preparation and imbibing of the decoction due to its ubiquity amongst cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of _Banisteriopsis caapi_ (Malpighiaceae) and the leaves of _Psychotria viridis_ (Rubiaceae) is most common.[^ref4] However, there are some recipes which do not contain any _Psychotria viridis_ and opt for other plants which contain DMT such as _Diplopterys cabrerana_ (Malpighiaceae).
-
-<param ve-plant-specimen eid="Q133573" max="1"> <!--Caapi-->
-<param ve-plant-specimen eid="Q133533" max="1"> <!--P.Viridis-->
-<param ve-plant-specimen eid= "Q1939784" max="1"> <!--D. Cabrerana-->
-
 <param ve-entity eid="Q5218"> <!--quechua--> 
 <param ve-entity eid="Q2841453"> <!-- Amazonia--> 
 <param ve-entity eid="Q414226"> <!--BCarboline--> 
 <param ve-entity eid="Q407217"> <!--DMT-->  
+
+<param ve-plant-specimen eid="Q133573" max="1"> <!--Caapi-->
+<param ve-plant-specimen eid="Q133533" max="1"> <!--P.Viridis-->
+<param ve-plant-specimen eid= "Q1939784" max="1"> <!--D. Cabrerana-->
 
 
 
