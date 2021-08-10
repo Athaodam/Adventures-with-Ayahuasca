@@ -53,7 +53,7 @@ The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least o
 
 <param ve-image 
        label=" Aguarico Ceramic bowl for ayahuasca decoctions" 
-       url="https://pmem.unix.fas.harvard.edu:8443/peabody/media/view/Objects/110840/50639?t:state:flow=b26955c4-4b49-4403-8d1d-9bb0d77e998a"
+       url="Ayahuasca 1 vessel.jpg"
        description="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior,          9.9 cm x 17.4 cm" 
        license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" 
        repository="Peabody Museum of Archaeology and Ethnology"> 
