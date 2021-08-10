@@ -281,33 +281,33 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
 [^ref8]:Eduardo Viveiros de Castro, “Cosmological Deixis and Amerindian Perspectivism,” The Journal of the Royal Anthropological Institute 4, no. 3 (1998): 469–88.
 [^ref9]:Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in The Ethnopharmacology of Ayahuasca, ed. Rafael Guimarães dos Santos (Kerala: Transworld Research Network, 2011), 8.
 [^ref10]:Frecska, Bokor, and Winkelman 2016.
-[^ref11]:
-[^ref12]:
+[^ref11]: Quoted in Luis Eduardo Luna, Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon (Stockholm : Almqvist & Wiksell International, 1986), 45. 
+[^ref12]:  Quoted in Luis Eduardo Luna and Pablo Amaringo, Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman (Berkeley, CA: North Atlantic Books, 1991), 22. 
 [^ref13]: Quoted in Robert Sirko, “The Artist and the Shaman: Seen and Unseen Worlds,” in Inner Visions: Sacred Plants,
 Art and Spirituality (Valparaiso, IN: Brauer Museum of Art, 2015): 51.
-[^ref14]: Ibid, 69. Peter Roe, and Manuel Rengifo Barbaran. “Shipibo Ainbo Chomo - Infinity of Nations: Art and History
-in the Collections of the National Museum of the American Indian” Accessed July 28, 2021.
+[^ref14]: Ibid, 69. Peter Roe, and Manuel Rengifo Barbaran. “Shipibo Ainbo Chomo - Infinity of Nations: Art and History in the Collections of the National Museum of the American Indian” Accessed July 28, 2021.
 https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html.
 [^ref15]: Rich Doyle, “Hyperbolic: Divining Ayahuasca,” Discourse 27, no. 1 (2005): 7.
-[^ref16]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La
-Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26.
+[^ref16]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26.
 [^ref17]: García Cuervo, 27-3.
-[^ref18]: Manuel Rodrigues Pinto Rubens, Costumbres de los indígenas que habitan en el Valle del Amazonas en el
-departamento de Loreto, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
-[^ref19]: I say apparently because the original author does not mention this but a later commentator did.
-[^ref20]: The generic name Banisteria was later changed to Banisteriopsis in the twentieth century.
-[^ref21]: Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of
-Ethnobotany,” Social Studies of Science 50, no. 3 (June 1, 2020): 346.
-[^ref22]:
-[^ref23]:
-[^ref24]:
-[^ref25]:
-[^ref26]:
-[^ref27]:
-[^ref28]:
-[^ref29]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
-[^ref30]:  Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 151–79.                            
-[^ref31]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 180–203.
-[^ref32]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” Boston College Third World Law Journal 21, no. 1 (January 2001): 84-85.
-[^ref33]:  Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” (Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000.                               
+[^ref18]: Hipólito Ruiz and José Pavón, Flora Peruviana, et Chilensis, Sive, Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61. 
+[^ref19]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011). 
 
+[^ref20]: Manuel Rodrigues Pinto Rubens, Costumbres de los indígenas que habitan en el Valle del Amazonas en el departamento de Loreto, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
+[^ref21]: I say apparently because the original author does not mention this but a later commentator did
+
+[^ref22]: The generic name Banisteria was later changed to Banisteriopsis in the twentieth century 
+[^ref23]: Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of Ethnobotany,” Social Studies of Science 50, no. 3 (June 1, 2020): 346.
+[^ref24]:  Elisa Sevilla and Ana Sevilla, “Inserción y participación en las redes globales de producción de conocimiento: el caso del Ecuador del siglo XIX*,” Historia Crítica, April 19, 2017: 83-84.
+[^ref25]:  “He could tell no more that it was a liana or a vine” in Richard Spruce, Notes of a Botanist on the Amazon & Andes, ed. Alfred Russel Wallace, vol. 2 (London,: Macmillan and co., limited, 1908), 424. 
+[^ref26]:   Manuel Villavicencio, Geografía de la República del Ecuador, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (New York: Imprenta de Robert Craighead, 1858), 373-374.
+[^ref27]: Villavicencio, Geografía, 372-373. 
+[^ref28]: Diane M. Rielinger, “A Forest of Knowledge: Richard Evans Schultes and the Rise of Ethnobotany,” Biodiversity Heritage Library (blog), August 11, 2020; Sheldrake, “The ‘Engima’ of Richard Schultes”, 357
+[^ref29]:  Sheldrake, 360. Spruce actually translated Villavicencio’s personal account of ayahuasca consumption. 
+[^ref30]: Sheldrake, 349.                             
+[^ref31]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
+[^ref32]: Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 151–79.
+[^ref33]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 180–203.
+[^ref34]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” Boston College Third World Law Journal 21, no. 1 (January 2001): 84-85.
+[^ref35]: Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” (Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000
+[^ref36]: Field Museum of Natural History., “Field Museum Specimen Overturns U.S. Patent,” In the Field : The Bulletin of the Field Museum of Natural History., April 2000, 13.
