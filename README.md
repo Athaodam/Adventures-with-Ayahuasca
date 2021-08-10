@@ -3,9 +3,8 @@
 <param ve-config 
        title="Ayahuasca: Whose Vine is it Anyway?"
        authors= Team P. Viridis
-       banner="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg" 
-       layout="vertical"
-       rotate= "270">
+       banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
+       layout="vertical">
 
 Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown increasingly common throughout the world. Spurred by interest in Indigenous Amazonian groups, New Age spiritual practices, and the exoticizing travel writing, ayahuasca has attained the status of “The Drug of Choice for the Age of Kale,” according to a recent article in The New Yorker.[^ref1] Despite its global popularity, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested.
 <param ve-image url="https://live.staticflickr.com/7876/46099384765_985b9299b8_k.jpg"
@@ -24,7 +23,8 @@ Although many associate ayahuasca with a particular species of plant, it actuall
 <param ve-entity eid="Q2841453"> <!-- Amazonia--> 
 <param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants by Richard Evans Schultes" description="Composed and drawn by botanist Richard Evans Shultes" 
        license="public domain"
-       url="https://www.biodiversitylibrary.org/pageimage/7810703">
+       url="https://www.biodiversitylibrary.org/pageimage/7810703"
+       fit="contain">
 
 On a pharmacological level, ayahuasca harnesses the chemical effects caused by the mixture of plants that contain _β-carboline_ type alkaloids (such as harmine and tetrahydroharmine) and _Dimethyltryptamine_ (DMT) to produce a hallucinogenic state within the consumer.[^ref3] There are many traditions associated with the preparation and imbibing of the decoction due to its ubiquity amongst cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of _Banisteriopsis caapi_ (Malpighiaceae) and the leaves of _Psychotria viridis_ (Rubiaceae) is most common.[^ref4] However, there are some recipes which do not contain any _Psychotria viridis_ and opt for other plants which contain DMT such as _Diplopterys cabrerana_ (Malpighiaceae).
 
@@ -112,7 +112,6 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
      <!--still need to add an annotation that translates this portion of the text--> 
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an <span ve-entity title="Botanical Expedition to the Viceroyalty of Peru" eid="Q4948434">expedition</span> across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_.[^ref18] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref19]
-<!--new paragraph, still needs editing and references--> 
 
 <param ve-image
        label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
