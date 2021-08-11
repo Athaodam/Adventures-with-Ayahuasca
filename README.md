@@ -21,8 +21,9 @@ Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown in
 Although many associate ayahuasca with a particular species of plant, it actually refers to a group of Indigenous psychoactive brews made by boiling a combination of species found in certain regions of Amazonia. The name ayahuasca is a compound word in the Quechua language: _aya_ refers to “soul, ancestors, or dead persons” while _wasca_ refers to “vine or rope.” Popular translations of the name allude to “vine of the soul,” while skeptics suggest “rope of death.”[^ref2] However, Ayahuasca is known by many names such as _natema, hoasca, daime, yagé,_ or _yajé_ among groups living in Ecuador, Colombia, Peru, and Brazil.
 <param ve-entity eid="Q5218"> <!--quechua--> 
 <param ve-entity eid="Q2841453"> <!-- Amazonia--> 
-<param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants by Richard Evans Schultes" description="Composed and drawn by botanist Richard Evans Shultes" 
-       license="public domain"
+<param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants by Richard Evans Schultes, 1957" description="Composed and drawn by botanist Richard Evans Shultes, 1957" 
+       attribution="Courtesy of Missouri Botanical Garden, Peter H. Raven Library and the Harvard University Herbaria"
+       license="CC BY-NC-SA 3.0"
        url="https://www.biodiversitylibrary.org/pageimage/7810703"
        fit="contain">
 
@@ -89,7 +90,7 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
 
 <param ve-knightlab-timeline="" source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw" font="Lustria-Lato" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="650">
                                                                                                       
-Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-click-image-zoomto="2|178,956,586,471">ayahuasca</span>.[^ref16] Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community.[^ref17] 
+Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-click-image-zoomto="2|-18,639,1174,942">ayahuasca</span>.[^ref16] Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community.[^ref17] 
 
 <param ve-entity eid="Q36380"> <!--Jesuits--> 
 <param ve-entity eid="Q7121682"> <!--Pablo Maroni-->
@@ -140,36 +141,39 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
        license= "Public Domain"> 
 
-While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine (_Banisteria caapi_)[^ref22] and included a whole section of notes in his posthumous book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Because of this, Spruce is considered to be the "pioneer" of ayahuasca studies in the modern scientific world.[^ref23]
+While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a <span data-click-image-zoomto="3|-37,1862,2563,2120">binomial name</span> to the most known ayahuasca vine in the region (_Banisteria caapi_)[^ref22] and included a whole section of notes in his posthumous book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Because of this, Spruce is considered to be the "pioneer" of ayahuasca studies in the modern scientific world.[^ref23]
 <param ve-entity eid="Q1349394"><!--Richard Spruce--> 
 <param ve-entity eid="Q213782" aliases="Putumayo region"><!--Putumayo River--> 
 <param ve-entity eid="Q182688"> <!--Victorian Era-->
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
        label="Coverpage of Notes of a Botanist in the Andes and the Amazon (1908), this posthomous work was edited by his fellow naturalist friend, Alfred R. Wallace"
-       description="tba"
-       attribution="Biodiversity Heritage Library"
+       description="Cover of Richard Spruce's posthomously edited book, Notes of a Botanist in the Andes and the Amazon"
+       attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
        license="Public Domain"
-       fit="contain">
+       fit="contain"
+       reff="1">
        
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
-       label="Richard Spruce's drawings of the Tariana in the Uapés River where he documented the use of (_caapi_)"
-       description="Spruce first mentioned the use of caapi during his travels across the Vaupés River"
-       attribution="Biodiversity Heritage Library"
+       label="Richard Spruce's drawings of the Tariana people in the Uapés River where he documented the use of caapi"
+       description="Spruce first mentioned the use of caapi during his travels across the Vaupés River. These notes can be found in Volume 1 of Notes of a Botnaist..."
+       attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
        license="Public Domain"
-       fit="contain">
+       fit="contain"
+       ref="2">
        
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391360"
-       label="Botanical description and scientific name of the ayahuasca vine"
-       description="tba"
-       attribution="Biodiversity Heritage Library"
+       label="Botanical description and scientific name of the ayahuasca vine in Notes of a Botanist (1908). vol 2"
+       description="Alfred Rusel Wallace noted that Spruce condensed his knowledge on Amazonian narcotics around 1870"
+       attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
        license="Public Domain"
-       region="0,811,2488,2058">
+       region="0,811,2488,2058"
+       ref="3">
        
 
-However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref24] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref25] Villavicencio did include other important ethnobotanical details such as the use of a “guayusa” brew (_Ilex guayusa_) to purge the ayahuasca drinker before the ceremony.[^ref26] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref27] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
+However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref24] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref25] Villavicencio did include other important ethnobotanical details such as the use of a <span data-click-image-zoomto="3|0,1037,1649,1364">“guayusa” brew</span> (_Ilex guayusa_) to purge the ayahuasca drinker before the ceremony.[^ref26] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref27] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
 <param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
 <param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
@@ -180,25 +184,28 @@ However, Spruce did not obtain all of the information through first hand intervi
 
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
-       label="En route to the deep Amazon via the Napo River in Geografía del Ecuador"
-       description="tba"
-       attribution="Courtesy of Dumbarton Oaks Research Library, call number:"
+       label="Uknown artist. En route to the deep Amazon via the Napo River in Manuel Villavicencio's Geografía de la República del Ecuador (1858)"
+       description="These two engravings show typical landscapes of field work in nineteenth-century travels and exploration. These images make it clear that those doing most part of field work were not the travellers or botanists themselves."
+       attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
        license="Public Domain"
-       fit="contain"> <!--I really like this engraving but I'm not sure how well it connects to the text-->
+       fit="contain"
+       ref="1"> 
        
  <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
-        label="Spruce's translation and summary of Villavicencio's description of ayahuasca consumption and rituals (ca. 1854)"
-        description="tba"
+        label="Excerpt of Spruce's translation and summary of Villavicencio's description of ayahuasca consumption and rituals (ca. 1854)"
+        description="This page can be found in Spruce's Notes of a Botanist...,chapter 25, vol 2."
         attribution="Courtesy of Biodiversity Heritage Library"
-        license="Public Domain">
+        license="Public Domain"
+        ref="2">
         
 <param ve-image 
        url="https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg"
-       label="Villavicencio's personal account of ayahuasca consumption published in 1858"
-       description="tba"
+       label="Villavicencio's personal account of ayahuasca consumption published in Geografía de la República del Ecuador, 1858"
+       description="This is the original text in Spanish that Spruce used to expand his essat on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa which was omitted in Spruce's essay."
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
-       license="Public Domain">
+       license="Public Domain"
+       ref="3">
 
 Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s.[^ref28] Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own.[^ref29] It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.[^ref30]
 <param ve-entity eid="Q1124975"><!--Richard Evans Schultes-->
@@ -211,7 +218,8 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
         label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia"
         description="tba"
         attribution="Archives of the Economic Botany Library of Oakes Ames, Harvard University"
-        license="??? tbd">
+        license="??? tbd"
+        contain="fit">
         
 <param ve-image
        url="https://www.cabinetmagazine.org/issues/30/cabinet_030_taussig_michael_002.jpg"
@@ -244,17 +252,18 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
         label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
-        description="tba"
+        description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s."
         attribution="Missouri Botanical Garden, Peter H. Raven Library"
-        license= "In copyright. Digitized with the permission of the rights holder"
-        fit="contain"> <!--still need to double check this D:--> 
+        license= "CC BY-NC-SA 3.0"
+        fit="contain"> 
                      
 The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref35] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent.[^ref36] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
 <param ve-entity eid="Q1122595"> <!--field museum-->                 
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
        label="Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman"
-       description="tba"
+       description="The Center for International Environmental Law (CIEL) used this herbarium specimen to demonstrate that Loren Miller's unique B. caapi
+                    cultivar in the US already existed before he patented. The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers' coloration."
        attribution="Courtesy of the Field Museum of Natural History"
        license="CC BY-NC 4.0"
        fit="contain">
@@ -264,43 +273,42 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
                     
 ## References
 
-[^ref1]: Ariel Levy, “The Drug of Choice for the Age of Kale.” The New Yorker, September 4, 2016. https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s.
+[^ref1]: Ariel Levy, “The Drug of Choice for the Age of Kale.” _The New Yorker_, September 4, 2016. https://www.newyorker.com/magazine/2016/09/12/the-ayahuasca-boom-in-the-u-s.
 [^ref2]: Luna, 2011. Frecska, Bokor, and Winkelman 2016
 [^ref3]: Callaway et al.,1996
 [^ref4]: McKenna, 2004 and Szára, 2007  in Frecska, Bokor, and Winkelman 2016, 2
-[^ref5]: Center for Western Studies (Flagstaff, Journal of Ethnobiology., vol. v. 6-7 1986-87 (Flagstaff, Ariz. :Center for Western Studies, 1986): 235.
+[^ref5]: Center for Western Studies (Flagstaff Ariz), _Journal of Ethnobiology._, vol. v. 6-7 1986-87 (Flagstaff, Ariz. :Center for Western Studies, 1986): 235. <!--I think the correct citation for this reference is the following: Richard Evans Schultes, “Recognition of Variability in Wild Plants by Indians in the Northwest Amazon: An Enigma,” _Journal of Ethnobiology_ 6, no. 2 (Winter 1986): 235 https://www.biodiversitylibrary.org/item/101833#page/247/mode/1up-->
 [^ref6]: Ibid, 236.
-[^ref7]: Melanie J. Miller et al., “Chemical Evidence for the Use of Multiple Psychotropic Plants in a 1,000-Year-Old Ritual Bundle from South America,” Proceedings of the National Academy of Sciences 116, no. 23 (June 4, 2019): 11210.
-[^ref8]:Eduardo Viveiros de Castro, “Cosmological Deixis and Amerindian Perspectivism,” The Journal of the Royal Anthropological Institute 4, no. 3 (1998): 469–88.
-[^ref9]:Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in The Ethnopharmacology of Ayahuasca, ed. Rafael Guimarães dos Santos (Kerala: Transworld Research Network, 2011), 8.
+[^ref7]: Melanie J. Miller et al., “Chemical Evidence for the Use of Multiple Psychotropic Plants in a 1,000-Year-Old Ritual Bundle from South America,” _Proceedings of the National Academy of Sciences_ 116, no. 23 (June 4, 2019): 11210.
+[^ref8]:Eduardo Viveiros de Castro, “Cosmological Deixis and Amerindian Perspectivism,” _The Journal of the Royal Anthropological Institute_ 4, no. 3 (1998): 469–88.
+[^ref9]:Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in _The Ethnopharmacology of Ayahuasca_, ed. Rafael Guimarães dos Santos (Kerala: Transworld Research Network, 2011), 8.
 [^ref10]:Frecska, Bokor, and Winkelman 2016.
-[^ref11]: Quoted in Luis Eduardo Luna, Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon (Stockholm : Almqvist & Wiksell International, 1986), 45. 
-[^ref12]:  Quoted in Luis Eduardo Luna and Pablo Amaringo, Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman (Berkeley, CA: North Atlantic Books, 1991), 22. 
-[^ref13]: Quoted in Robert Sirko, “The Artist and the Shaman: Seen and Unseen Worlds,” in Inner Visions: Sacred Plants,
-Art and Spirituality (Valparaiso, IN: Brauer Museum of Art, 2015): 51.
+[^ref11]: Quoted in Luis Eduardo Luna, _Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon_ (Stockholm : Almqvist & Wiksell International, 1986), 45. 
+[^ref12]:  Quoted in Luis Eduardo Luna and Pablo Amaringo, _Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman_ (Berkeley, CA: North Atlantic Books, 1991), 22. 
+[^ref13]: Quoted in Robert Sirko, “The Artist and the Shaman: Seen and Unseen Worlds,” in _Inner Visions: Sacred Plants,
+Art and Spirituality_ (Valparaiso, IN: Brauer Museum of Art, 2015): 51.
 [^ref14]: Ibid, 69. Peter Roe, and Manuel Rengifo Barbaran. “Shipibo Ainbo Chomo - Infinity of Nations: Art and History in the Collections of the National Museum of the American Indian” Accessed July 28, 2021.
 https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html.
-[^ref15]: Rich Doyle, “Hyperbolic: Divining Ayahuasca,” Discourse 27, no. 1 (2005): 7.
+[^ref15]: Rich Doyle, “Hyperbolic: Divining Ayahuasca,” _Discourse_ 27, no. 1 (2005): 7.
 [^ref16]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26.
 [^ref17]: García Cuervo, 27-3.
-[^ref18]: Hipólito Ruiz and José Pavón, Flora Peruviana, et Chilensis, Sive, Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61. 
+[^ref18]: Hipólito Ruiz and José Pavón, _Flora Peruviana, et Chilensis, Sive, Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis_, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61. 
 [^ref19]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011). 
-
-[^ref20]: Manuel Rodrigues Pinto Rubens, Costumbres de los indígenas que habitan en el Valle del Amazonas en el departamento de Loreto, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
+[^ref20]: Manuel Rodrigues Pinto Rubens, _Costumbres de los indígenas que habitan en el Valle del Amazonas en el departamento de Loreto_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
 [^ref21]: I say apparently because the original author does not mention this but a later commentator did
 
-[^ref22]: The generic name Banisteria was later changed to Banisteriopsis in the twentieth century 
-[^ref23]: Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of Ethnobotany,” Social Studies of Science 50, no. 3 (June 1, 2020): 346.
-[^ref24]:  Elisa Sevilla and Ana Sevilla, “Inserción y participación en las redes globales de producción de conocimiento: el caso del Ecuador del siglo XIX*,” Historia Crítica, April 19, 2017: 83-84.
-[^ref25]:  “He could tell no more that it was a liana or a vine” in Richard Spruce, Notes of a Botanist on the Amazon & Andes, ed. Alfred Russel Wallace, vol. 2 (London,: Macmillan and co., limited, 1908), 424. 
-[^ref26]:   Manuel Villavicencio, Geografía de la República del Ecuador, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (New York: Imprenta de Robert Craighead, 1858), 373-374.
+[^ref22]: The generic name _Banisteria_ was later changed to _Banisteriopsis_ in the twentieth century 
+[^ref23]: Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of Ethnobotany,” _Social Studies of Science_ 50, no. 3 (June 1, 2020): 346.
+[^ref24]:  Elisa Sevilla and Ana Sevilla, “Inserción y participación en las redes globales de producción de conocimiento: el caso del Ecuador del siglo XIX*,” _Historia Crítica_, April 19, 2017: 83-84.
+[^ref25]:  “He could tell no more that it was a liana or a vine” in Richard Spruce, _Notes of a Botanist on the Amazon & Andes_, ed. Alfred Russel Wallace, vol. 2 (London,: Macmillan and co., limited, 1908), 424. 
+[^ref26]:   Manuel Villavicencio, _Geografía de la República del Ecuador_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (New York: Imprenta de Robert Craighead, 1858), 373-374.
 [^ref27]: Villavicencio, Geografía, 372-373. 
 [^ref28]: Diane M. Rielinger, “A Forest of Knowledge: Richard Evans Schultes and the Rise of Ethnobotany,” Biodiversity Heritage Library (blog), August 11, 2020; Sheldrake, “The ‘Engima’ of Richard Schultes”, 357
 [^ref29]:  Sheldrake, 360. Spruce actually translated Villavicencio’s personal account of ayahuasca consumption. 
 [^ref30]: Sheldrake, 349.                             
-[^ref31]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies (London ; New York: Routledge, Taylor & Francis Group, 2017).
-[^ref32]: Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 151–79.
-[^ref33]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” Anthropology of Consciousness 27, no. 2 (September 1, 2016): 180–203.
-[^ref34]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” Boston College Third World Law Journal 21, no. 1 (January 2001): 84-85.
-[^ref35]: Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” (Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000
-[^ref36]: Field Museum of Natural History., “Field Museum Specimen Overturns U.S. Patent,” In the Field : The Bulletin of the Field Museum of Natural History., April 2000, 13.
+[^ref31]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman. “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in _Ayahuasca Shamanism in the Amazon and Beyond  (New York: Oxford University Press, 2014). Beatriz Caiuby  Labate ed. The World Ayahuasca Diaspora: Reinventions and Controversies_ (London ; New York: Routledge, Taylor & Francis Group, 2017).
+[^ref32]: Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism.” _Anthropology of Consciousness_ 27, no. 2 (September 1, 2016): 151–79.
+[^ref33]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean  Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context.” _Anthropology of Consciousness_ 27, no. 2 (September 1, 2016): 180–203.
+[^ref34]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” _Boston College Third World Law Journal_ 21, no. 1 (January 2001): 84-85.
+[^ref35]: Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000.
+[^ref36]: Field Museum of Natural History., “Field Museum Specimen Overturns U.S. Patent,” _In the Field : The Bulletin of the Field Museum of Natural History_., April 2000, 13.
