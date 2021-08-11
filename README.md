@@ -75,9 +75,10 @@ Consuming ayahuasca produces a roughly four hour long period of altered consciou
 While conducting his groundbreaking research on ayahuasca rituals amongst the <span ve-entity eid="Q106713">_mestizo_</span> population in the Peruvian Amazon, anthropologist Luis Eduardo Luna encountered the <span ve-entity eid="Q547457">_curandero_</span> <span ve-entity eid="Q2511028">Pablo Amaringo</span>. Wanting to know more about Amaringo’s experiences with the brew, Luna provided him with paper and <span ve-entity eid="Q175166">tempera</span> paints and asked him to draw his visions. For Amaringo, the visual was a key component in ayahuasca’s efficacy. “The Spirits don’t talk,” he explains, “but express themselves through images.”[^ref13] Full of bright colors, elaborate patterns, and fantastical scenes, Amaringo’s paintings both attempt to reproduce the effects of ayahuasca and point to the knowledge and wisdom derived from the rituals. Furthermore, according to Amaringo, the brew transformed him into an artist by teaching him how to see and understand colors. In this example, Amaringo represents the corpus of Indigenous botanical knowledge and the ways practitioners might access that knowledge through ayahuasca, fasting, and chanting.
 
 <param ve-image 
-       label="Pablo Amaringo, Huarmi Taquina, 2005" 
-       url="https://thatcreativefeeling.com/wp-content/uploads/Pablo-Amaringo-1.jpg"
-       description="Gouache on paper, 22 1/2 x 30 3/8 in.">
+       label="Pablo Amaringo, untitled, 1996" 
+       url="https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg"
+       description="Gouache on paper, 18 x 24 in."
+       license="St. Lawrence University Art Gallery, CC BY-NC-ND 2.0">
 
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref14] 
 <param ve-image url="https://americanindian.si.edu/exhibitions/infinityofnations/images/amazon/239608_900.jpg"
