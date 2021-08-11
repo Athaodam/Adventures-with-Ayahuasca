@@ -89,6 +89,9 @@ While conducting his groundbreaking research on ayahuasca rituals amongst the <s
        
 
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref14] 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Shipibo-art-4.jpg"
+       label="Shipibo textile from Iquitos, Peru"
+       license="Public Domain">
 <param ve-image url="https://americanindian.si.edu/exhibitions/infinityofnations/images/amazon/239608_900.jpg"
        label="Shipibo _ainbo chomo_. ca. 1965. San Francisco de Yarinacocha, Peru. Clay and paint. National Museum of the American Indian, Washington D.C." 
        description="Water vessel in the form of a woman">
