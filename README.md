@@ -280,7 +280,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
         license= "CC BY-NC-SA 3.0"
         fit="contain"> 
                      
-The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref35] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent.[^ref36] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
+The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref35] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. [^ref36] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
 <param ve-entity eid="Q1122595"> <!--field museum-->                 
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
@@ -292,9 +292,9 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
        fit="contain">
 
 ## Future Adventures with Ayahuasca
-Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge.[^ref37] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
+Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge. [^ref37] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
 <param ve-entity eid="Q771035"> <!--traditional medicine-->
-<param ve-entity eid"Q864601"> <!--biomedicine-->
+<param ve-entity eid="Q864601"> <!--biomedicine-->
                     
 ## References
 
