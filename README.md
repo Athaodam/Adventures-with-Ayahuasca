@@ -254,6 +254,12 @@ Today, many in the West are most familiar with ayahuasca not through Indigenous 
                                                         
  
 Scholars have debated at length about the contemporary global usage of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of extractive colonialism as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping real Indigenous shamans living in the modern world. [^ref32]  On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism. [^ref33]
+<param ve-image
+       url="https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg"
+       label="'Eco Aldeia Serra Sagrada,' an ayahuasca retreat in Minas Gerais, Brazil"
+       attribution="upsilon"
+       license="CC BY 2.0">
+                 
 
 In truth, ayahuasca rituals have always been dynamic and multiple, differing between ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called _Vegetalismo_, which was inflected by both Catholicism and traditional Indigenous knowledges. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. Likewise, a Brazilian minister raised in an ethnically diverse rubber boom town founded the syncretic church of _Santo Daime_ based on Catholicism, African animism, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ itself spread globally, with churches in the United States, Canada, and Europe.
 <param ve-image
