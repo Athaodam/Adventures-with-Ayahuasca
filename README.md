@@ -67,9 +67,7 @@ The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least o
 <!--param ve-image preserved ayahuasca bundle, peabody collection-->
 
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref8] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref9] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref10]  
-
 <param ve-image label="Don Emilio's ayahasuca experience" description="Vegetalista Don Emilio reflects on the experience of consuming ayhauasca" license="public domain" url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/1f13b87200e979f535ed58fd009120933f0cefcc/Ayahuasca%20Trip%20-%20Don%20Emilio.png">
-
 <param ve-image label="Pablo Amaringo's ayahuasca experience" description="Peruvian shahman and artist Pabo Amaringo reflects on the experience of consuming ayahuasca" license="public domain" url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/1f13b87200e979f535ed58fd009120933f0cefcc/Ayahuasca%20Trip%20-%20Pablo%20Amaringo.png">
 
 ## Representing Ayahuasca with the Senses
