@@ -180,7 +180,7 @@ However, Spruce did not obtain all of the information through first hand intervi
 
 
 <param ve-image
-       url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/475,/0/default.jpg"
+       url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
        label="En route to the deep Amazon via the Napo River in Geografía del Ecuador"
        description="tba"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number:"
@@ -195,19 +195,11 @@ However, Spruce did not obtain all of the information through first hand intervi
         license="Public Domain">
         
 <param ve-image 
-       url="https://ids.lib.harvard.edu/ids/iiif/445472673/0,0,3819,4096/955,/0/default.jpg"
+       url="https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg"
        label="Villavicencio's personal account of ayahuasca consumption published in 1858"
        description="tba"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
        license="Public Domain">
-       
-<param ve-image 
-       url="https://ids.lib.harvard.edu/ids/iiif/445472673/0,4096,3819,1462/955,/0/default.jpg"
-       label="Villavicencio's personal account of ayahuasca consumption published in 1858, continued"
-       description="tba"
-       attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
-       license="Public Domain"
-       fit="contain"> <!--Because I couldn't obtain a higher res image of this page, I had to include this image where the author talks about a purgative plant but I think it might be too much--> 
 
 Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s.[^ref28] Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own.[^ref29] It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.[^ref30]
 <param ve-entity eid="Q1124975"><!--Richard Evans Schultes-->
