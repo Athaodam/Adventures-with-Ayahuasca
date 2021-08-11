@@ -78,7 +78,8 @@ While conducting his groundbreaking research on ayahuasca rituals amongst the <s
        label="Pablo Amaringo, untitled, 1996" 
        url="https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg"
        description="Gouache on paper, 18 x 24 in."
-       license="St. Lawrence University Art Gallery, CC BY-NC-ND 2.0">
+       attribution="St. Lawrence University Art Gallery"
+       license="CC BY-NC-ND 2.0">
 
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref14] 
 <param ve-image url="https://americanindian.si.edu/exhibitions/infinityofnations/images/amazon/239608_900.jpg"
