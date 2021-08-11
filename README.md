@@ -89,14 +89,13 @@ While conducting his groundbreaking research on ayahuasca rituals amongst the <s
        
 
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref14] 
+<param ve-image url="https://upmaa-pennmuseum.netdna-ssl.com/collections/assets/1600/72338.jpg"
+       label="Shipibo Jar" 
+       attribution="Object 78-1-22. Courtesy of the Penn Museum.>
 <param ve-image url="https://live.staticflickr.com/4386/36706638286_f4bfd80169_3k.jpg"
        label="Traditional Shipibo Embroidery"
        attribution="CIFOR"
        license="CC BY-NC-ND 2.0">
-<param ve-image url="https://live.staticflickr.com/2754/4029844682_b2955e7fe2_k.jpg"
-       label="Contemporary Shipibo vessel" 
-       attribution="Howard G Charing"
-       license="CC BY-NC 2.0">
   
 More than just visual, though ayahuasca ceremonies are a multisensory journey for those experiencing the effects of the decoction. In addition to the ayahuasca itself, music is a vital component in several ayahuasca traditions. In Peru, whistled chants, <span ve-entity eid="Q5985066">_icaros_</span>, accompany ayahuasca healing ceremonies carried out by _ayahuasqueros_ or _vegetalistas_. The whistling is meant to invoke spiritual forces so that they may open doorways and help to complete tasks. Guardian spirits of the vine may also be invoked by the whistling to aid in the ceremony. The songs likely also help to orient those who have imbibed the decoction, providing some grounding effect while the participant is otherwise disoriented by the effects of the decoction.[^ref15]
 <param ve-video id="d06W6to3Wc0" title="Maestro Gilberto Picota Lopez Sings a Shipibo Icaro">
