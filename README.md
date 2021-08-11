@@ -93,9 +93,10 @@ For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, a
        label="Traditional Shipibo Embroidery"
        attribution="CIFOR"
        license="CC BY-NC-ND 2.0">
-<param ve-image url="https://americanindian.si.edu/exhibitions/infinityofnations/images/amazon/239608_900.jpg"
-       label="Shipibo _ainbo chomo_. ca. 1965. San Francisco de Yarinacocha, Peru. Clay and paint. National Museum of the American Indian, Washington D.C." 
-       description="Water vessel in the form of a woman">
+<param ve-image url="https://live.staticflickr.com/2754/4029844682_b2955e7fe2_k.jpg"
+       label="Contemporary Shipibo vessel" 
+       attribution="Howard G Charing"
+       license="CC BY-NC 2.0">
   
 More than just visual, though ayahuasca ceremonies are a multisensory journey for those experiencing the effects of the decoction. In addition to the ayahuasca itself, music is a vital component in several ayahuasca traditions. In Peru, whistled chants, <span ve-entity eid="Q5985066">_icaros_</span>, accompany ayahuasca healing ceremonies carried out by _ayahuasqueros_ or _vegetalistas_. The whistling is meant to invoke spiritual forces so that they may open doorways and help to complete tasks. Guardian spirits of the vine may also be invoked by the whistling to aid in the ceremony. The songs likely also help to orient those who have imbibed the decoction, providing some grounding effect while the participant is otherwise disoriented by the effects of the decoction.[^ref15]
 <param ve-video id="d06W6to3Wc0" title="Maestro Gilberto Picota Lopez Sings a Shipibo Icaro">
