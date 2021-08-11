@@ -22,7 +22,7 @@ Although many associate ayahuasca with a particular species of plant, it actuall
 <param ve-entity eid="Q5218"> <!--quechua--> 
 <param ve-entity eid="Q2841453"> <!-- Amazonia--> 
 <param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants by Richard Evans Schultes, 1957" description="Composed and drawn by botanist Richard Evans Shultes, 1957" 
-       attribution="Courtesy of Missouri Botanical Garden, Peter H. Raven Library and the Harvard University Herbaria"
+       attribution="Courtesy of Missouri Botanical Garden, Peter H. Raven Library"
        license="CC BY-NC-SA 3.0"
        url="https://www.biodiversitylibrary.org/pageimage/7810703"
        fit="contain">
@@ -173,7 +173,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        ref="3">
        
 
-However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref24] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref25] Villavicencio did include other important ethnobotanical details such as the use of a <span data-click-image-zoomto="3|0,1037,1649,1364">“guayusa” brew</span> (_Ilex guayusa_) to purge the ayahuasca drinker before the ceremony.[^ref26] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref27] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
+However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref24] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref25] Villavicencio did include other important ethnobotanical details such as the use of a <span data-click-image-zoomto="3|-95,1037,1840,1364">“guayusa” brew</span> (_Ilex guayusa_) to purge the ayahuasca drinker before the ceremony.[^ref26] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref27] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
 <param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
 <param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
@@ -195,14 +195,14 @@ However, Spruce did not obtain all of the information through first hand intervi
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
         label="Excerpt of Spruce's translation and summary of Villavicencio's description of ayahuasca consumption and rituals (ca. 1854)"
         description="This page can be found in Spruce's Notes of a Botanist...,chapter 25, vol 2."
-        attribution="Courtesy of Biodiversity Heritage Library"
+        attribution="Courtesy of the Smithsonian Libraries via Biodiversity Heritage Library"
         license="Public Domain"
         ref="2">
         
 <param ve-image 
        url="https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg"
        label="Villavicencio's personal account of ayahuasca consumption published in Geografía de la República del Ecuador, 1858"
-       description="This is the original text in Spanish that Spruce used to expand his essat on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa which was omitted in Spruce's essay."
+       description="This is the original text in Spanish that Spruce used to expand his essay on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa which was omitted in Spruce's essay."
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
        license="Public Domain"
        ref="3">
@@ -219,7 +219,7 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
         description="tba"
         attribution="Archives of the Economic Botany Library of Oakes Ames, Harvard University"
         license="??? tbd"
-        contain="fit">
+        fit="contain">
         
 <param ve-image
        url="https://www.cabinetmagazine.org/issues/30/cabinet_030_taussig_michael_002.jpg"
@@ -253,7 +253,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
         label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
         description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s."
-        attribution="Missouri Botanical Garden, Peter H. Raven Library"
+        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library"
         license= "CC BY-NC-SA 3.0"
         fit="contain"> 
                      
