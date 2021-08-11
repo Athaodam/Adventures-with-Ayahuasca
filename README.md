@@ -134,12 +134,11 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
 Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the _Ticuna_ in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref20] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span ve-entity title="Ethnography" eid="Q132151">ethnographic</span> detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand their patient’s ailment and find a cure.[^ref21] 
 <param ve-entity eid="Q5363631" aliases="Ticuna"><!--Ticuna--> 
 <param ve-image
-       url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/482,/0/default.jpg"
+       url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg"
        label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé in Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873"
        description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
-       license= "Public Domain"
-       rotate= "90"> 
+       license= "Public Domain"> 
 
 While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine (_Banisteria caapi_)[^ref22] and included a whole section of notes in his posthumous book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Because of this, Spruce is considered to be the "pioneer" of ayahuasca studies in the modern scientific world.[^ref23]
 <param ve-entity eid="Q1349394"><!--Richard Spruce--> 
