@@ -292,8 +292,9 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
        fit="contain">
 
 ## Future Adventures with Ayahuasca
-
-
+Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge.[^ref37] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
+<param ve-entity eid="Q771035"> <!--traditional medicine-->
+<param ve-entity eid"Q864601"> <!--biomedicine-->
                     
 ## References
 
@@ -336,3 +337,4 @@ https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html.
 [^ref34]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” _Boston College Third World Law Journal_ 21, no. 1 (January 2001): 84-85.
 [^ref35]: Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000.
 [^ref36]: Field Museum of Natural History., “Field Museum Specimen Overturns U.S. Patent,” _In the Field : The Bulletin of the Field Museum of Natural History_., April 2000, 13.
+[^ref37]: Frecska, Bokor, and Winkelman 2016.
