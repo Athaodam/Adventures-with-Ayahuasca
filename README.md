@@ -42,7 +42,8 @@ Additionally, exact recipes are often closely guarded by Indigenous knowledge ke
 <param ve-image label="Commentary on the recipe for Ayahuasca brew by French missionary Constantin Tastevin, 1926" description= "An excerpt from Brunfelsia in Ethnomedicine by Timothy Plowman, 1977"
        attribution= "Courtesy of Missouri Botanical Garden, Peter H. Raven Library"
        license= "CC BY-NC-SA 3.0"
-       url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Recipe%20commentary%20-%20Constatin%20Tastevin.png?raw=true"> 
+       url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Recipe%20commentary%20-%20Constatin%20Tastevin.png?raw=true"
+       fit= "contain"> 
        
        
 
