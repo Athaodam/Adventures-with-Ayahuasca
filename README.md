@@ -67,10 +67,16 @@ The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least o
        fit="contain" 
        description="Ceramic bowl, Tucano(?) culture, Rio Napo, Ecuador. Mended, reconstructed, red exterior, black 
        interior, 9.9 cm x 17.4 cm.,Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 35-25-30/1102." 
-       license=" Peabody Museum of Archaeology and Ethnology (Harvard University)">
+       license="Peabody Museum of Archaeology and Ethnology (Harvard University)">
+       
 <param ve-image 
        label-"Tucano(?) ceramic bowl with base for ayahuasca decoctions"
-       url=>
+       url="Ayahuasca vessel 3.jpg"
+       fit="contain"
+       description="Ceramic bowl, Tucano(?) culture, Rio Napo, Ecuador. Ceramic bowl, bulbous body, flared rim, black interior, red exterior, fire cloud, 10.9 cm x 
+       20.5 cm, Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 35-25-30/1115."
+       license="Peabody Museum of Archaeology and Ethnology (Harvard University">
+       
 <!--param ve-image mixing bowl, peabody collection-->
 <!--param ve-image preserved ayahuasca bundle, peabody collection-->
 
