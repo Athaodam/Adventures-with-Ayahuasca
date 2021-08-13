@@ -280,9 +280,10 @@ Scholars have debated at length about the contemporary global usage of ayahuasca
 
 In truth, ayahuasca rituals have always been dynamic and multiple, differing between ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was inflected by both Catholicism and traditional Indigenous knowledges. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. Likewise, a Brazilian minister raised in an ethnically diverse rubber boom town founded the syncretic church of <span eid="Q2032421>_Santo Daime_</span> based on <span eid="Q1841">Catholicism</span>, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ itself spread globally, with churches in the United States, Canada, and Europe.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Daime_Encontro.JPG"
-       label="Ayahuasca (called "Santo Daime" in Santo Daime religion) waiting for beginning of the ceremonial work."
+       label="Ayahuasca (called 'Santo Daime' in Santo Daime religion) waiting for beginning of the ceremonial work."
        attribution="Aiatee"
        license="CC BY-SA 3.0">
+       
 <param ve-image
        url="https://live.staticflickr.com/3020/2898937218_d28c164528_h.jpg"
        label="Cooking Ayahuasca in Céu do Juruá, Brazil"
