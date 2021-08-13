@@ -271,7 +271,11 @@ Today, many in the West are most familiar with ayahuasca not through Indigenous 
                                                         
  
 Scholars have debated at length about the contemporary global usage of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of <span eid="Q1385203">extractive colonialism</span> as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping real Indigenous shamans living in the modern world. [^ref32]  On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism. [^ref33]
-<param ve-iframe src="https://vimeo.com/123869339">
+<param ve-image
+       url="https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg"
+       label="'Eco Aldeia Serra Sagrada,' an ayahuasca retreat in Minas Gerais, Brazil"
+       attribution="upsilon"
+       license="CC BY 2.0">
 
                  
 
@@ -287,11 +291,7 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing bet
        description="Members of the Church of Santo Daime use ayahuasca as important part of ritual practice. The cross of Santo Daime, seen in the image, is based on the Christian cross, and symbolizes the mission of Jesus. Santo Daime is a syncretic religion that combines Christian teachings with the belief systems of Indigenous Amazonia and Africa."
        attribution="Lou Gold">
        
-<param ve-image
-       url="https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg"
-       label="'Eco Aldeia Serra Sagrada,' an ayahuasca retreat in Minas Gerais, Brazil"
-       attribution="upsilon"
-       license="CC BY 2.0">
+
       
 
 The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref34] Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
@@ -329,6 +329,8 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
 Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge. [^ref37] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
 <param ve-entity eid="Q771035"> <!--traditional medicine-->
 <param ve-entity eid="Q864601"> <!--biomedicine-->
+
+<param ve-video id="MXpvWYCDpFc" title="Yagé is Our Life">
                     
 ## References
 
