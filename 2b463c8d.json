@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Translation: \"Ticuna Indians//The Pagé performing the physician's duties.//The pagé (old age master) who has the [...] medicines, he has drunk the Ayahuasca and gets inspired to understand the sickness and remedies\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:308.51953125,1041.6387939453125,1818.13330078125,335.4888916015625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8554fa6d-5a14-4ffc-8fde-2f5f9e72f840"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Psychotria is a large genus within the Rubiaceae family (Coffee family), it includes ca. 1500 plant species, many of which have bioactive components including naphthoquinones, peptides, benzoquinones, pigments, and alkaloids. This genus is specially diverse in the Atlantic forest and indigenous people have identified the properties of several Psychotria species. For example P. ipecacuanha has expectorant and emetic properties and P. colorata has been used as a painkiller. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4d03ab873a0dfc6ab03fe3aef6e7bf3ebd04ed7704bfa806d99633dcb67bf9a1",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1682.5926513671875,2532.888916015625,674.4073486328125,720.74072265625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#35c94999-f89d-4f05-a941-1f8946b201f9"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Translation: It is not easy to prove if those who are presumed to be sorcerers can actually communicate and consult with the Devil.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/f24242f47c67d3c07738fd3f8ab86360995b2a749a9edf2c3c81099032e2d21e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:164.65199279785156,762.6893920898438,699.5662078857422,99.93804931640625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3d688ae3-4565-4338-98de-83b39b6ff08f"
+  }
+]
