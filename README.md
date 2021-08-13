@@ -282,7 +282,7 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing bet
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Daime_Encontro.JPG"
        label="Ayahuasca (called "Santo Daime" in Santo Daime religion) waiting for beginning of the ceremonial work."
        attribution="Aiatee"
-       license="CC BY-SA 3.0"
+       license="CC BY-SA 3.0">
 <param ve-image
        url="https://live.staticflickr.com/3020/2898937218_d28c164528_h.jpg"
        label="Cooking Ayahuasca in Céu do Juruá, Brazil"
