@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Ayahuasca: Whose Vine is it Anyway?"
-       authors= Team P. Viridis
+       author="Thao Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
        layout="vertical">
 
@@ -245,8 +245,8 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
         url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2020/08/Schultes_amazon_1940s-1186x1536.jpg"
         label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia"
         description="tba"
-        attribution="Archives of the Economic Botany Library of Oakes Ames, Harvard University"
-        license="??? tbd"
+        attribution="Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes' family"
+        license="CC BY-NC 2.0"
         fit="contain">
         
 <param ve-image
@@ -279,7 +279,7 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing bet
        url="https://live.staticflickr.com/200/470377554_585483993d_k.jpg"
        label="Cross in Matutu Daime Church"
        attribution="Lou Gold"
-       license="CC BY-NC 2.0)">
+       license="CC BY-NC 2.0">
 
 The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref34] Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
 <param ve-entity eid="Q1129883"><!--COICA-->
@@ -331,10 +331,9 @@ https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html.
 [^ref16]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26.
 [^ref17]: García Cuervo, 27-3.
 [^ref18]: Hipólito Ruiz and José Pavón, _Flora Peruviana, et Chilensis, Sive, Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis_, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61. 
-[^ref19]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011). 
+[^ref19]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011) http://www.bne.es/es/Micrositios/Guias/12Octubre/CienciaExploracion/RuizPavon/. 
 [^ref20]: Manuel Rodrigues Pinto Rubens, _Costumbres de los indígenas que habitan en el Valle del Amazonas en el departamento de Loreto_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
 [^ref21]: I say apparently because the original author does not mention this but a later commentator did
-
 [^ref22]: The generic name _Banisteria_ was later changed to _Banisteriopsis_ in the twentieth century 
 [^ref23]: Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of Ethnobotany,” _Social Studies of Science_ 50, no. 3 (June 1, 2020): 346.
 [^ref24]:  Elisa Sevilla and Ana Sevilla, “Inserción y participación en las redes globales de producción de conocimiento: el caso del Ecuador del siglo XIX*,” _Historia Crítica_, April 19, 2017: 83-84.
