@@ -2,6 +2,7 @@
 
 <param ve-config 
        title="Ayahuasca: Whose Vine is it Anyway?"
+       author="Thao Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
        layout="vertical">
 
@@ -113,7 +114,7 @@ More than just visual, though ayahuasca ceremonies are a multisensory journey fo
 <param ve-video id="d06W6to3Wc0" title="Maestro Gilberto Picota Lopez Sings a Shipibo Icaro">
                                                         
 ## Ethnobotanical Encounters 
-The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
+The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from fully understanding Indigenous knowledge and their worldview.
 
 <param ve-knightlab-timeline="" source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw" font="Lustria-Lato" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="650">
                                                                                                       
@@ -137,7 +138,6 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2"> 
-     <!--still need to add an annotation that translates this portion of the text--> 
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an <span ve-entity title="Botanical Expedition to the Viceroyalty of Peru" eid="Q4948434">expedition</span> across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_.[^ref18] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref19]
 
@@ -200,7 +200,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        ref="3">
        
 
-However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref24] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref25] Villavicencio did include other important ethnobotanical details such as the use of a <span data-click-image-zoomto="3|-95,1037,1840,1364">“guayusa” brew</span> (_Ilex guayusa_) to purge the ayahuasca drinker before the ceremony.[^ref26] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref27] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
+However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref24] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref25] Villavicencio did include other important ethnobotanical details such as the regular use of a <span data-click-image-zoomto="3|-95,1037,1840,1364">“guayusa” brew</span> (_Ilex guayusa_) among the Jívaro to purge themselves before hunting.[^ref26] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref27] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
 <param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
 <param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
@@ -330,7 +330,8 @@ https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html.
 [^ref16]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26.
 [^ref17]: García Cuervo, 27-3.
 [^ref18]: Hipólito Ruiz and José Pavón, _Flora Peruviana, et Chilensis, Sive, Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis_, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61. 
-[^ref19]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011) http://www.bne.es/es/Micrositios/Guias/12Octubre/CienciaExploracion/RuizPavon/. 
+[^ref19]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011) http://www.bne.es/es/Micrositios/Guias/12Octubre/CienciaExploracion/RuizPavon/.
+Annotation source: M. Sangeetha and J. Banurekha, “Psychotria - An Overview,” _Research Journal of Pharmacy and Technology_, November 2020, 7. 
 [^ref20]: Manuel Rodrigues Pinto Rubens, _Costumbres de los indígenas que habitan en el Valle del Amazonas en el departamento de Loreto_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
 [^ref21]: I say apparently because the original author does not mention this but a later commentator did
 [^ref22]: The generic name _Banisteria_ was later changed to _Banisteriopsis_ in the twentieth century 
