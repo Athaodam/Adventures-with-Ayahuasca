@@ -29,11 +29,11 @@
       }
     ],
     "target": {
-      "source": "https://live.staticflickr.com/200/470377554_585483993d_k.jpg",
+      "source": "https://free.iiifhosting.com/iiif/248a00097cb5738070a4fb9914bb4ce999f1800a2a6d6e75d8accf374be873c6",
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1141.88916015625,1631.3177490234375,431.7310791015625,325.77099609375"
+        "value": "xywh=pixel:1112.581298828125,1280.37646484375,467.521240234375,676.7122802734375"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
