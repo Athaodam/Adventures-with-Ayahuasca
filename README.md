@@ -276,10 +276,10 @@ Scholars have debated at length about the contemporary global usage of ayahuasca
 
 In truth, ayahuasca rituals have always been dynamic and multiple, differing between ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was inflected by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledges. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. Likewise, a <span eid="Q3855400">Brazilian minister</span> raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ itself spread globally, with churches in the United States, Canada, and Europe.
 <param ve-image
-       url="https://live.staticflickr.com/3020/2898937218_d28c164528_h.jpg"
-       label="Cooking Ayahuasca in Céu do Juruá, Brazil"
-       description="Members of the Church of Santo Daime use ayahuasca as important part of ritual practice. The cross of Santo Daime, seen in the image, is based on the Christian cross, and symbolizes the mission of Jesus. Santo Daime is a syncretic religion that combines Christian teachings with the belief systems of Indigenous Amazonia and Africa."
-       attribution="Lou Gold">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Daime_Encontro.JPG"
+       label="Ayahuasca (called Santo Daime) waiting for beginning of the ceremonial work."
+       attribution="	Aiatee"
+       license="CC BY-SA 3.0">
 
 The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref34] Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
 <param ve-entity eid="Q1129883"><!--COICA-->
