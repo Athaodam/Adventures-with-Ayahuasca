@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "These spirits are called átun-runas, from the Quechua words for \"giant\" and \"people.\" They live below the ficus trees and serve as spiritual guides for shamans seeking healing and protection.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cc2f1a93d661d81ed84fb4c82b906cd31f94afc5b4e63dfa25e6f4bd4e20b4ba",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:793.8541259765625,931.9866333007812,1567.0572509765625,581.4606323242188"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#10d1daef-c8db-46a6-8b31-bd0bd8fe4094"
+  }
+]
