@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "The tangled roots of the ficus tree represent the intertwined relationships between all beings in the universe. By learning from these plants with the help of the spirits, ayahuasca practitioners gain knowledge about the world. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cc2f1a93d661d81ed84fb4c82b906cd31f94afc5b4e63dfa25e6f4bd4e20b4ba",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1835.4552001953125,1671.5384521484375,1490.3909912109375,1040.0235595703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d963e4ce-81f6-4d38-a5b5-9fcd029f6c21"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "These spirits are called átun-runas, from the Quechua words for \"giant\" and \"people.\" They live below the ficus trees and serve as spiritual guides for shamans seeking healing and protection.",
         "purpose": "commenting"
       }
