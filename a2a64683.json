@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Santo Daime practitioners decorate their altars with a variation of the Christian cross, which symbolizes the mission of Jesus Christ. The teachings of Christianity form a core tenet of the religion. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://live.staticflickr.com/200/470377554_585483993d_k.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:380.94873046875,108.22484588623047,882.68212890625,898.8667068481445"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ad5ba985-bfda-4d1a-b4b6-a2106aa1ebb4"
+  }
+]
