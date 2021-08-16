@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Ayahuasca: Whose Vine is it Anyway?"
-       authors="Thao Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
+       author="Thao Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
        layout="vertical">
 
