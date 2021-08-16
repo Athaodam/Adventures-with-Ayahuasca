@@ -53,31 +53,46 @@ The use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least o
 <param ve-entity eid="Q1773840"> <!--provenance-->
 
 <param ve-image 
-       label="Aguarico Ceramic bowl with base for ayahuasca decoctions" 
+       label="Aguarico Ceramic bowl with base for ayahuasca decoctions." 
        url="Ayahuasca vessel 1.jpg"
        fit="contain"
        stable-url="https://www.jstor.org/stable/community.15365224"
        description="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior,          9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University),accession number 35-25-30/1102" 
-       license="Peabody Museum of Archaeology and Ethnology (Harvard University)" accession number="35-25-30/1102" 
-       repository="Peabody Museum of Archaeology and Ethnology"> 
+       credit="Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody
+               Museum of Archaeology and Ethnology, 35-25-30/1108"> 
        
 <param ve-image 
-       label="Ceramic bowl with base for ayahuasca decoctions" 
+       label="Ceramic bowl with base for ayahuasca decoctions." 
        url="Ayahuasca vessel 2.jpg" 
        fit="contain" 
        description="Aguarico ceramic bowl, Tucano(?), Rio Napo, Ecuador. Mended, reconstructed, red exterior, black 
        interior, 9.9 cm x 17.4 cm.,Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 35-25-30/1102." 
-       license="Peabody Museum of Archaeology and Ethnology (Harvard University)">
+       credit="Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody 
+               Museum of Archaeology and Ethnology, 35-25-30/1102">
        
 <param ve-image 
-       label-"Ceramic bowl with base for ayahuasca decoctions"
+       label="Ceramic bowl with base for ayahuasca decoctions."
        url="Ayahuasca vessel 3.jpg"
        fit="contain"
        description="Aguarico ceramic bowl, Tucano(?), Rio Napo, Ecuador. Ceramic bowl, bulbous body, flared rim, black interior, red exterior, fire cloud, 10.9 cm        x20.5 cm, Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 35-25-30/1115."
-       license="Peabody Museum of Archaeology and Ethnology (Harvard University">
+       credit="Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody
+               Museum of Archaeology and Ethnology, 35-25-30/1115">
        
-<!--param ve-image mixing bowl, peabody collection-->
-<!--param ve-image preserved ayahuasca bundle, peabody collection-->
+<param ve-image 
+       label="Ceramic vessel for yagé."
+       url="Ayahuasca vessel 4.jpg"
+       fit="contain"
+       description="Yukuna ceramic vessel,Mirití-Paraná River, Columbia. Ceramic polychrom vessel, black interior, two perforated handles, 12 x 10 15/16 x 9 5/8
+                    in., Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 54-21-30/7536"
+       credit="Loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536">
+
+<param ve-image 
+       label="Bundle of ayahuasca."
+       url="Bundle.jpg"
+       fit="contain"
+       description="Bundle of dried sticks and vine, tied with fiber. Kofan, Rio San Miguel, Columbia. Peabody Museum of Archaeology and Ethnology (Harvard
+                    University), accession number 48-17-30/7158"
+       credit="Museum Purchase,1948. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158">
 
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref8] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref9] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref10]  
 <param ve-image label="Don Emilio's ayahasuca experience" description="Vegetalista Don Emilio reflects on the experience of consuming ayhauasca" license="public domain" url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Don%20Emilio.png?raw=true" fit="contain">
