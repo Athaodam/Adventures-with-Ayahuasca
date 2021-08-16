@@ -246,7 +246,7 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
         label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia"
         description="tba"
         attribution="Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes' family"
-        license="CC BY-NC 2.0"
+        license="Status of Copyright Unknown"
         fit="contain">
         
 <param ve-image
