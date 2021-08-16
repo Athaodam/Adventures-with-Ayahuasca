@@ -307,6 +307,7 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
 Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge. [^ref37] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
 <param ve-entity eid="Q771035"> <!--traditional medicine-->
 <param ve-entity eid="Q864601"> <!--biomedicine-->
+<param ve-video id="MXpvWYCDpFc" title="Yagé is Our Life">
                     
 ## References
 
