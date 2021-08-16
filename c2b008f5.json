@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#10d1daef-c8db-46a6-8b31-bd0bd8fe4094"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Shamans gather and drink ayahuasca from the vessel at the center of the golden table. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cc2f1a93d661d81ed84fb4c82b906cd31f94afc5b4e63dfa25e6f4bd4e20b4ba",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:446.0774230957031,2459.179931640625,1092.8161315917969,625.4482421875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bf788dd1-e338-4f12-a79b-62dbeb268d72"
   }
 ]
