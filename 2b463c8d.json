@@ -4,26 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Another notable habit of the Jívaros, consists in drinking every morning a great quantity of lukewarm water with an infusion of Guayusa leaves to induce vomit so the stomach is clean and ready for hunting. ",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:231.3180389404297,1744.684814453125,991.6902618408203,265.4119873046875"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#92ec7e36-676d-4984-bb2b-4684baf36c4b"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "To divine, they [sorcerers] drink the juice, some, from a white devil's trumpet (floripondio) which they also call Bell because of its shape, others, from a vine called vulgarly ayahuasca, both very effective in depriving of one's senses and even of life if used in excess.",
         "purpose": "commenting"
       }
