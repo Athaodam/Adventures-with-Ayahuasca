@@ -44,26 +44,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "To divine, they [sorcerers] drink the juice, some, from a white devil's trumpet (floripondio) which they also call Bell because of its shape, others, from a vine called vulgarly ayahuasca, both very effective in depriving of one's senses and even of life if used in excess.",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/f24242f47c67d3c07738fd3f8ab86360995b2a749a9edf2c3c81099032e2d21e",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:163.01365661621094,1088.716796875,714.3111724853516,165.47119140625"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#4c36faf4-7abe-4be2-8b18-471cfd68601a"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "The Ayahuasca [brew] is not allowed to be drunken by those too young nor by women. ",
         "purpose": "commenting"
       }
