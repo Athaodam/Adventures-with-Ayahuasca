@@ -58,25 +58,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#4c36faf4-7abe-4be2-8b18-471cfd68601a"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Translation: It is not easy to prove if those who are presumed to be sorcerers can actually communicate and consult with the Devil.",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/f24242f47c67d3c07738fd3f8ab86360995b2a749a9edf2c3c81099032e2d21e",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:164.65199279785156,762.6893920898438,699.5662078857422,99.93804931640625"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#3d688ae3-4565-4338-98de-83b39b6ff08f"
   }
 ]
