@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Translation: \"Ticuna Indians//The Pagé performing the physician's duties.//The pagé (old age master) who has the [...] medicines, he has drunk the Ayahuasca and gets inspired to understand the sickness and remedies\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:333.65264892578125,1027.5516357421875,1761.7750854492188,338.611572265625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#14536693-104a-4625-b643-e893dc9a2e0f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Another notable habit of the Jívaros, consists in drinking every morning a great quantity of lukewarm water with an infusion of Guayusa leaves to induce vomit so the stomach is clean and ready for hunting. ",
         "purpose": "commenting"
       }
@@ -18,6 +38,46 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#92ec7e36-676d-4984-bb2b-4684baf36c4b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "To divine, they [sorcerers] drink the juice, some, from a white devil's trumpet (floripondio) which they also call Bell because of its shape, others, from a vine called vulgarly ayahuasca, both very effective in depriving of one's senses and even of life if used in excess.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/f24242f47c67d3c07738fd3f8ab86360995b2a749a9edf2c3c81099032e2d21e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:167.55784606933594,1085.4315185546875,704.4270172119141,172.687255859375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ce1e1e01-ca0a-4aaa-a7a3-5688835f6639"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Psychotria is a large genus within the Rubiaceae family (Coffee family), it includes ca. 1500 plant species, many of which have bioactive components including naphthoquinones, peptides, benzoquinones, pigments, and alkaloids. This genus is specially diverse in the Atlantic forest and indigenous people have identified the properties of several Psychotria species. For example P. ipecacuanha has expectorant and emetic properties and P. colorata has been used as a painkiller. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4d03ab873a0dfc6ab03fe3aef6e7bf3ebd04ed7704bfa806d99633dcb67bf9a1",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1890.3944091796875,4510.79833984375,791.6639404296875,153.1396484375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#40ba5507-cdf3-4d94-8f59-cf79bc0ce39b"
   },
   {
     "type": "Annotation",
