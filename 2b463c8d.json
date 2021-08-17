@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Another notable habit of the Jívaros, consists in drinking every morning a great quantity of lukewarm water with an infusion of Guayusa leaves to induce vomit so the stomach is clean and ready for hunting. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:231.3180389404297,1744.684814453125,991.6902618408203,265.4119873046875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#92ec7e36-676d-4984-bb2b-4684baf36c4b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "To divine, they [sorcerers] drink the juice, some, from a white devil's trumpet (floripondio) which they also call Bell because of its shape, others, from a vine called vulgarly ayahuasca, both very effective in depriving of one's senses and even of life if used in excess.",
         "purpose": "commenting"
       }
@@ -18,6 +38,46 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#ce1e1e01-ca0a-4aaa-a7a3-5688835f6639"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Psychotria is a large genus within the Rubiaceae family (Coffee family), it includes ca. 1500 plant species, many of which have bioactive components including naphthoquinones, peptides, benzoquinones, pigments, and alkaloids. This genus is specially diverse in the Atlantic forest and indigenous people have identified the properties of several Psychotria species. For example P. ipecacuanha has expectorant and emetic properties and P. colorata has been used as a painkiller. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4d03ab873a0dfc6ab03fe3aef6e7bf3ebd04ed7704bfa806d99633dcb67bf9a1",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1890.3944091796875,4510.79833984375,791.6639404296875,153.1396484375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#40ba5507-cdf3-4d94-8f59-cf79bc0ce39b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The Ayahuasca [brew] is not allowed to be drunken by those too young nor by women.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:229.02777099609375,1490.9720458984375,1019.2521362304688,108.675048828125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#36e8fba9-5739-4128-a63d-0970847198e4"
   },
   {
     "type": "Annotation",
