@@ -38,25 +38,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#81c29fe0-0f6c-43c4-aead-1f0e6c3a226e"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "The Ayahuasca [brew] is not allowed to be drunken by those too young nor by women. ",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:238.79611206054688,1488.69384765625,986.0735168457031,97.4193115234375"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#06a97b7a-3f98-4399-8a70-bb443defe041"
   }
 ]
