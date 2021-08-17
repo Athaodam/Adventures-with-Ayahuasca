@@ -4,26 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Translation: \"Ticuna Indians//The Pagé performing the physician's duties.//The pagé (old age master) who has the [...] medicines, he has drunk the Ayahuasca and gets inspired to understand the sickness and remedies\"",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:383.31732177734375,1102.58984375,1682.6123657226562,257.1798095703125"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#cca86274-fc51-4de4-bae1-621c09c1bff5"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "Psychotria is a large genus within the Rubiaceae family (Coffee family), it includes ca. 1500 plant species, many of which have bioactive components including naphthoquinones, peptides, benzoquinones, pigments, and alkaloids. This genus is specially diverse in the Atlantic forest and indigenous people have identified the properties of several Psychotria species. For example P. ipecacuanha has expectorant and emetic properties and P. colorata has been used as a painkiller. ",
         "purpose": "commenting"
       }
