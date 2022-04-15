@@ -33,7 +33,7 @@ When someone drinks ayahuasca, they experience intensely vivid hallucinations an
 
 <param ve-entity eid="Q414226"> <!--BCarboline--> 
 <param ve-entity eid="Q407217"> <!--DMT-->  
-<param ve-entity eid="Q410954"> <!--MAOIs-->
+<param ve-entity eid="Q410954" aliases="(MAOIs)"> <!--MAOIs-->
 
 <param ve-plant-specimen eid="Q133573" max="1"> <!--Caapi-->
 <param ve-plant-specimen eid="Q133533" max="1"> <!--P.Viridis-->
@@ -117,11 +117,11 @@ For outsider researchers hailing from the West, identifying plant species used i
         license= "TBA"
         fit="contain"> 
 
-For these reasons, ayahuasca and its associated plant species form an exemplary case study for considering the gaps between Western botanical and anthropological scholarship and the traditional ecological knowledge (TEK) of Indigenous Amazonian groups.[^ref18]  Western researchers must contend with the sacred and intimate nature of this knowledge, and how it is carefully shared and accessed from within Indigenous communities.[^ref19] To enter a community as an outsider and demand immediate-access to precisely safeguarded knowledge in its totality could be a kind of scholarly colonialism, demonstrating  the historical extractive aspect of research conducted within Indigenous communities across disciplines. In some instances, these research practices strained relationships with Indigenous communities by framing them  as something (typically white) researchers actively do to Indigenous peoples.[^ref20] Often, non-Indigenous Western researchers would conduct studies which prominently centered their voices instead of the communities they studied. Indigenous scholar Shawn Wilson highlights that despite some studies’ “good” intentions, many of them have resulted in the formation and “proliferation of negative stereotypes.”[^ref21] In response, Indigenous scholars have led the charge towards revising this trajectory through the collaborative development of Indigenous paradigms of research in order to actively decolonize present and future scholarship.[^ref22] With a focus on community engagement, reciprocally nourishing relationalities, appropriate crediting, and the acknowledgement that not all Indigenous knowledge may be accessible for researchers, further studies on TEK of ayahuasca are possible. The pursuit, documentation, and safeguarding of TEK are crucial to biodiversity conservation as a whole and therefore, it is in the interest of all to center and uplift Indigenous voices throughout.[^ref23]
+For these reasons, ayahuasca and its associated plant species form an exemplary case study for considering the gaps between Western botanical and anthropological scholarship and the traditional ecological knowledge (TEK) of Indigenous Amazonian groups.[^ref18] Western researchers must contend with the sacred and intimate nature of this knowledge, and how it is carefully shared and accessed from within Indigenous communities.[^ref19] To enter a community as an outsider and demand immediate-access to precisely safeguarded knowledge in its totality could be a kind of scholarly colonialism, demonstrating  the historical extractive aspect of research conducted within Indigenous communities across disciplines. In some instances, these research practices strained relationships with Indigenous communities by framing them  as something (typically white) researchers actively do to Indigenous peoples.[^ref20] Often, non-Indigenous Western researchers would conduct studies which prominently centered their voices instead of the communities they studied. Indigenous scholar Shawn Wilson highlights that despite some studies’ “good” intentions, many of them have resulted in the formation and “proliferation of negative stereotypes.”[^ref21] In response, Indigenous scholars have led the charge towards revising this trajectory through the collaborative development of Indigenous paradigms of research in order to actively decolonize present and future scholarship.[^ref22] With a focus on community engagement, reciprocally nourishing relationalities, appropriate crediting, and the acknowledgement that not all Indigenous knowledge may be accessible for researchers, further studies on TEK of ayahuasca are possible. The pursuit, documentation, and safeguarding of TEK are crucial to biodiversity conservation as a whole and therefore, it is in the interest of all to center and uplift Indigenous voices throughout.[^ref23]
 
 <param ve-entity eid="Q7832334"> <!--Traditional Ecological Knowledge-->
 <param ve-entity eid="Q1385203"> <!--Extractivism-->
-<param ve-entity eid="Q60299928"> <!--Shawn Wilson-->
+
 
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
@@ -166,20 +166,22 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
 <param ve-entity eid="Q7121682"> <!--Pablo Maroni-->
 
 <param ve-image 
-       url="https://www.wdl.org/en/item/1137/manifest"
+       url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:13:7:wdl_01137:cart168292/full/pct:50/0/default.jpg"
        label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707" 
        description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes" 
        attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01"
        license="Public Domain"
        ref="1">
-     
+<!--manifest url https://www.wdl.org/en/item/1137/manifest -->      
+
 <param ve-image
-       url="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
+       url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12001473&formato=jpg"
        label="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
        description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2"> 
+<!-- manifest url https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12 --> 
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the celebrated Spanish explorers and botanists <span ve-entity title="Botanical Expedition to the Viceroyalty of Peru" eid="Q4948434"> Hipólito Ruíz and José Pavón</span> described a shrub from the Western Amazon and <span data-click-image-zoomto="2|1313,1312,1905,1529">named it</span> _Psychotria viridis_.[^ref28] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref29]
 
@@ -201,7 +203,7 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        region="1295,1326,1904,1529"
        ref="2">
        
-Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the _Ticuna_ in the Northern Amazon. He recognized the importance of medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref30] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span ve-entity title="Ethnography" eid="Q132151">ethnographic</span> detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand their patient’s ailment and find its cure.[^ref19] 
+Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the _Ticuna_ in the Northern Amazon. He recognized the importance of medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref30] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span ve-entity title="Ethnography" eid="Q132151">ethnographic</span> detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand their patient’s ailment and find its cure. 
 <param ve-entity eid="Q5363631" aliases="Ticuna"><!--Ticuna--> 
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg"
@@ -214,6 +216,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
 <param ve-entity eid="Q1349394"><!--Richard Spruce--> 
 <param ve-entity eid="Q213782" aliases="Putumayo region"><!--Putumayo River--> 
 <param ve-entity eid="Q182688"> <!--Victorian Era-->
+<param ve-entitu eid="Q120684"> <!--Tupi-->
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
        label="Coverpage of Notes of a Botanist in the Andes and the Amazon (1908), this posthomous work was edited by his fellow naturalist friend, Alfred R. Wallace"
@@ -244,6 +247,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
 Spruce obtained most of his field information on _caapi_ through firsthand interviews and observations. However, when it came to firsthand experiences with ayahuasca consumption, Spruce had to tap into the scientific networks of the nascent Spanish American republics and the Brazilian Empire.[^ref32] To illustrate the effect of “white men who have partaken of caapi in the proper way,” Spruce drew from the account of a Brazilian friend and more extensively from Manuel Villavicencio, a Quiteño _criollo_ scientist who was governor of the Oriental Provinces in Ecuador in the 1850s.[^ref33]
 <param ve-entity eid="Q16242047" aliases="criollo"> <!--Criollo-->
 <param ve-entity eid="Q7102414"> <!--Oriental Ecuador-->
+<param ve-entity eid="Q217230"> <!--Brazilian empire-->
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
        label="Uknown artist. En route to the deep Amazon via the Napo River in Manuel Villavicencio's Geografía de la República del Ecuador (1858)"
@@ -325,11 +329,11 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
 
 <param ve-entity eid="Q1129883"><!--COICA-->
 <param ve-entity eid="Q2904214"><!--biopiracy-->
+<param ve-entity eid="Q7832334"><!--TEK--> 
 <param ve-image
-        url="https://www.biodiversitylibrary.org/pageimage/7810745"
-        label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
-        description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s."
-        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library"
+        url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/USP_DaVinePatent_1986.png?raw=true"
+        label="Patent granted to Loren Miller in 1986"
+        attribution="USPTO Patent Full-Text and Image Database""
         license= "CC BY-NC-SA 3.0"
         fit="contain"> 
                      
@@ -352,9 +356,10 @@ Despite its longstanding historical use and significance within the Amazonian re
 ## References
 
 [^ref1]: Luna, 2011. Frecska, Bokor, and Winkelman 2016
+[^ref2]:
 [^ref3]: Callaway et al.,1996
 [^ref4]: McKenna, 2004 and Szára, 2007  in Frecska, Bokor, and Winkelman 2016, 2
-[^ref5]: Richard Evans Schultes, “Recognition of Variability in Wild Plants by Indians in the Northwest Amazon: An Enigma,” _Journal of Ethnobiology_ 6, no. 2 (Winter 1986): 235 https://www.biodiversitylibrary.org/item/101833#page/247/mode/1up  
+[^ref5]: Richard Evans Schultes, “Recognition of Variability in Wild Plants by Indians in the Northwest Amazon: An Enigma,” _Journal of Ethnobiology_ 6, no. 2 (Winter 1986): 235 https://www.biodiversitylibrary.org/item/101833#page/247/mode/1up 
 [^ref6]: Ibid, 236.
 [^ref7]: Melanie J. Miller et al., “Chemical Evidence for the Use of Multiple Psychotropic Plants in a 1,000-Year-Old Ritual Bundle from South America,” _Proceedings of the National Academy of Sciences_ 116, no. 23 (June 4, 2019): 11210.
 [^ref8]:Eduardo Viveiros de Castro, “Cosmological Deixis and Amerindian Perspectivism,” _The Journal of the Royal Anthropological Institute_ 4, no. 3 (1998): 469–88.
@@ -390,3 +395,11 @@ Annotation source: M. Sangeetha and J. Banurekha, “Psychotria - An Overview,�
 [^ref33]: Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000.
 [^ref34]: Field Museum of Natural History., “Field Museum Specimen Overturns U.S. Patent,” _In the Field : The Bulletin of the Field Museum of Natural History_., April 2000, 13.
 [^ref35]: Frecska, Bokor, and Winkelman 2016.
+[^ref36]:
+[^ref37]:
+[^ref38]:
+[^ref39]:
+[^ref40]:
+[^ref41]:
+[^ref42]:
+[^ref43]:
