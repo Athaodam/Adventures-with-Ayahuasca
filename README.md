@@ -1,10 +1,11 @@
 <a href="https://juncture-digital.org"> <img src="https://juncture-digital.org/images/ve-button.png"> </a>
 
 <param ve-config 
-       title="Ayahuasca: Whose Vine is it Anyway?"
+       title="Ayahuasca: Amazonian Plant Lessons"
        author="Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
        layout="vertical">
+       
 Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through New Age spiritual practices, exoticizing travel writing, and the growing eco-tourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now called South America. Even within Amazonia, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its continually evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the Peruvian Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
 
 <param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
@@ -27,16 +28,16 @@ Although many associate ayahuasca with a particular species of plant, it actuall
        url="https://www.biodiversitylibrary.org/pageimage/7810703"
        fit="contain">
  
-When someone drinks ayahuasca, they experience intensely vivid hallucinations and visions which some users describe as “dreaming while awake”.[^ref2] This is because ayahuasca’s different mixtures of plants perfectly combine special chemicals called  _β-carboline_ harmala alkaloids and _N,N-Dimethyltryptamine_ (DMT). Although DMT is a naturally occurring chemical which is found in the brain in small amounts, larger amounts of it causes visions, strong emotional surges, and even some report “breakthroughs” to other dimensional realities.[^ref3] During these visual experiences, objects seem to vibrate, colors are brighter or more intense, and intricate shapes and patterns emerge freely in kaleidoscopic ways.[^ref4] Importantly, both the _β-carboline_ harmala alkaloids and DMT must be ingested together to cause psychedelic effects on the brain. For example the stem bark of _Banisteriopsis caapi_ vine is very rich in  β-carboline harmala alkaloids, while the leaves of _Psychotria viridis_ bush contain amounts of DMT -- it is only in combination that ayahuasca’s effects can be felt. Both the β-carboline harmala alkaloids, harmine and harmaline, are known as monoamine oxidase inhibitors (MAOIs). Without them, the DMT would be inactivated by the monoamine oxidase (MAOs) within our gut and liver and no hallucinogenic reactions would occur.
+When someone drinks ayahuasca, they experience intensely vivid hallucinations and visions which some users describe as “dreaming while awake”.[^ref2] This is because ayahuasca’s different mixtures of plants perfectly combine special chemicals called  _β-carboline_ harmala alkaloids and _N,N-Dimethyltryptamine_ (DMT). Although DMT is a naturally occurring chemical which is found in the brain in small amounts, larger amounts of it causes visions, strong emotional surges, and even some report “breakthroughs” to other dimensional realities.[^ref3] During these visual experiences, objects seem to vibrate, colors are brighter or more intense, and intricate shapes and patterns emerge freely in kaleidoscopic ways.[^ref4] Importantly, both the _β-carboline_ harmala alkaloids and DMT must be ingested together to cause psychedelic effects on the brain. For example the stem bark of _Banisteriopsis caapi_ vine is very rich in  _β-carboline_ harmala alkaloids, while the leaves of _Psychotria viridis_ bush contain amounts of DMT –it is only in combination that ayahuasca’s effects can be felt. Both the β-carboline harmala alkaloids, harmine and harmaline, are known as monoamine oxidase inhibitors (MAOIs). Without them, the DMT would be inactivated by the monoamine oxidase (MAOs) within our gut and liver and no hallucinogenic reactions would occur.
 
 
 <param ve-entity eid="Q414226"> <!--BCarboline--> 
 <param ve-entity eid="Q407217"> <!--DMT-->  
-<param ve-entity="Q410954"> <!--MAOIs-->
+<param ve-entity eid="Q410954"> <!--MAOIs-->
 
 <param ve-plant-specimen eid="Q133573" max="1"> <!--Caapi-->
 <param ve-plant-specimen eid="Q133533" max="1"> <!--P.Viridis-->
-<param ve-plant-specimen eid= "Q1939784" max="1"> <!--D. Cabrerana-->
+
 
 There are many traditions associated with the preparation and imbibing of the decoction due to its ubiquity amongst cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of _Banisteriopsis caapi_ (Malpighiaceae) and the leaves of _Psychotria viridis_ (Rubiaceae) is most common.[^ref5] This combination of plants and their collective effects have been known among Amazonian Indigenous populations for at least 3000 years.[^ref6] However, there are some recipes which do not contain any _P. viridis_ and opt for other plants which contain DMT such as _Diplopterys cabrerana_ (Malpighiaceae).
 
@@ -45,7 +46,9 @@ There are many traditions associated with the preparation and imbibing of the de
        license= "CC BY-NC-SA 3.0"
        url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Recipe%20commentary%20-%20Constatin%20Tastevin.png?raw=true"
        fit= "contain"> 
-
+       
+<param ve-plant-specimen eid= "Q1939784" max="1"> <!--D. Cabrerana-->
+<!--Apr 15,2022 I moved the D. Cabrerana specimen to this paragraph since it's first mentioned here-->
 
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref7] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref8] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref9] 
 
@@ -54,10 +57,9 @@ Consuming ayahuasca produces a roughly four hour long period of altered consciou
 
 ## The Origins of Ayahuasca and Plant Knowledge 
 
-The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least one thousand years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that _Banisteriopsis caapi_ and _Psychotria viridis_ were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.[^ref10] However, these ceramic vessels display some inherent problems in interpreting archaeological evidence. In the wet climate of the Amazon Basin, organic materials rarely survive, except at exceptionally high altitudes. This is a significant challenge in the region as it underscores which kind of evidence survives and how it affects its own interpretation. Without other surviving materials, researchers have to be very careful in documenting their field work and perusing other sources to trace the early origins of this unique brew. 
+The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least one thousand years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that _Banisteriopsis caapi_ and _Psychotria viridis_ were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.[^ref10] However, these ceramic vessels display some inherent problems in interpreting archaeological evidence. In the wet climate of the Amazon Basin, organic materials rarely survive, except at exceptionally high altitudes. This is a significant challenge in the region as it underscores which kind of evidence survives and how it affects its own interpretation. Without other surviving materials, researchers have to be very careful in documenting their field work and <span ve-entity eid="Q1773840"> perusing other sources</span> to trace the early origins of this unique brew. 
 
 <param ve-entity eid="Q61750"> <!--Tiwanaku-->
-<param ve-entity eid="Q1773840"> <!--provenance-->
 
 <param ve-image 
        label="Aguarico Ceramic bowl with base for ayahuasca decoctions." 
@@ -104,11 +106,16 @@ The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _P
 An even more puzzling aspect about ayahuasca decoctions for outsider researchers, is its discovery. How did apparently isolated Amazonian communities come to know the synergistic effect between different plant species in one of the most biodiverse forests of the world? For decades, scientists have assumed that indigenous people have accumulated botanical knowledge by mere “trial and error”.[^ref11] This umbrella method for diverse ways of knowing the natural world obscures the sophistication and depth of botanical knowledge in the Amazon. Ayahuasca brews across the Amazon harness the psychoactive properties of at least 97 species from 38 plant families.[^ref12] Aside from _P. viridis_, Amazonian indigenous groups have identified the medicinal properties of at least three other _Psychotria_ species —a plant group that comprises no less than a thousand species.[^ref13] While these are veritable feats of botanical research, Indigenous ways of knowing are not necessarily measured by such standards nor rely exclusively on observations and collection of written data. Many _ayahuasqueros_ in the Peruvian Amazon learn ayahuasca recipes through oral traditions from elders, but the teacher itself is considered to be the plant, not the elder alone.[^ref14] Learning through plant teachers involves at times solitude (_dietas_), long periods of sensorial interactions with the plant, and incorporating dreams and visions as significant teachings.[^ref15] Thus, plant-generated knowledge does not dwell on counting species or detailed descriptions, rather,  it seeks to create memory and awareness through the interaction with a sentient plant. 
 
 <!--Visual: This interview with an Indigenous practitioner speaking to the sophisticated knowledge: https://youtu.be/jc8UYDscHEs-->
+<param ve-video id="jc8UYDscHEs" title="The Huni Kuin science of Ayahuasca, the Pajé/healer Txana Ixã speaks about the healing qualities of the brew">
 
 For outsider researchers hailing from the West, identifying plant species used in ayahuasca decoctions has been difficult for a number of reasons. Exact recipes are often closely guarded by Indigenous knowledge keepers and precise measurements of the ingredients are not always recorded.  Additionally, Indigenous groups may classify plants according to more refined and specific criteria than Western scientists, identifying nuanced variations in leaf shape, size, breadth, flowering patterns, the psychoactive effects  as well as the guardian spirits associated with the plant.[^ref16] Indigenous groups using these complex classification systems will at times refer to the same plant species by many names or use the same name for different plants all depending on their uses. In the case of ayahuasca, “different” species are used to create brews with varying strength and purpose.[^ref17] 
 
-<!--Visual: https://www.amazonteam.org/maps/schultes/foto/2/youth_borrachero.jpg 
-A Kamentsá youth with a Borrachero flower (1953)-->
+<param ve-image
+        url="https://www.amazonteam.org/maps/schultes/foto/2/youth_borrachero.jpg"
+        label="Richard Schultes,A Kamentsá youth with a Borrachero flower (1953)"
+        attribution="Banco de la República, Colombia - Amazon Conservation Team"
+        license= "TBA"
+        fit="contain"> 
 
 For these reasons, ayahuasca and its associated plant species form an exemplary case study for considering the gaps between Western botanical and anthropological scholarship and the traditional ecological knowledge (TEK) of Indigenous Amazonian groups.[^ref18]  Western researchers must contend with the sacred and intimate nature of this knowledge, and how it is carefully shared and accessed from within Indigenous communities.[^ref19] To enter a community as an outsider and demand immediate-access to precisely safeguarded knowledge in its totality could be a kind of scholarly colonialism, demonstrating  the historical extractive aspect of research conducted within Indigenous communities across disciplines. In some instances, these research practices strained relationships with Indigenous communities by framing them  as something (typically white) researchers actively do to Indigenous peoples.[^ref20] Often, non-Indigenous Western researchers would conduct studies which prominently centered their voices instead of the communities they studied. Indigenous scholar Shawn Wilson highlights that despite some studies’ “good” intentions, many of them have resulted in the formation and “proliferation of negative stereotypes.”[^ref21] In response, Indigenous scholars have led the charge towards revising this trajectory through the collaborative development of Indigenous paradigms of research in order to actively decolonize present and future scholarship.[^ref22] With a focus on community engagement, reciprocally nourishing relationalities, appropriate crediting, and the acknowledgement that not all Indigenous knowledge may be accessible for researchers, further studies on TEK of ayahuasca are possible. The pursuit, documentation, and safeguarding of TEK are crucial to biodiversity conservation as a whole and therefore, it is in the interest of all to center and uplift Indigenous voices throughout.[^ref23]
 
@@ -159,7 +166,7 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
 <param ve-entity eid="Q7121682"> <!--Pablo Maroni-->
 
 <param ve-image 
-       manifest="https://www.wdl.org/en/item/1137/manifest"
+       url="https://www.wdl.org/en/item/1137/manifest"
        label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707" 
        description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes" 
        attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01"
@@ -167,7 +174,7 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        ref="1">
      
 <param ve-image
-       manifest="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
+       url="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
        label="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
        description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
@@ -194,7 +201,7 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        region="1295,1326,1904,1529"
        ref="2">
        
-Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the _Ticuna_ in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref18] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span ve-entity title="Ethnography" eid="Q132151">ethnographic</span> detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand their patient’s ailment and find a cure.[^ref19] 
+Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the _Ticuna_ in the Northern Amazon. He recognized the importance of medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref30] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span ve-entity title="Ethnography" eid="Q132151">ethnographic</span> detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand their patient’s ailment and find its cure.[^ref19] 
 <param ve-entity eid="Q5363631" aliases="Ticuna"><!--Ticuna--> 
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg"
@@ -203,7 +210,7 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
        license= "Public Domain"> 
 
-While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a <span data-click-image-zoomto="3|-37,1862,2563,2120">binomial name</span> to the most known ayahuasca vine in the region (_Banisteria caapi_)[^ref20] and included a whole section of notes in his posthumous book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Because of this, Spruce is considered to be the "pioneer" of ayahuasca studies in the modern scientific world.[^ref21]
+While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce was notably interested in the use of mind-altering plants, so much that there is a chapter dedicated to them in his posthumously edited book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Most of this chapter focuses on a plant named caapi —the Tupi word for ayahuasca— and includes methods of preparing the plant, notes on its etymology, and ritual descriptions. Because of this, Spruce is considered today as one of the main pioneers of ethnobotany in the modern scientific world.[^ref31]
 <param ve-entity eid="Q1349394"><!--Richard Spruce--> 
 <param ve-entity eid="Q213782" aliases="Putumayo region"><!--Putumayo River--> 
 <param ve-entity eid="Q182688"> <!--Victorian Era-->
@@ -232,18 +239,11 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
        license="Public Domain"
        region="0,811,2488,2058"
-       ref="3">
+       ref="3"> 
        
-
-However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño _criollo_ scientist who had been recently appointed governor of the Oriental Provinces in Ecuador. Not surprisingly, Villavicencio dedicated a sizable portion of his book to this specific region and discussed strategies of incorporating the apparently isolated and wild tribes who lived there. To expand his scientific project he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce.[^ref22] Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref23] Villavicencio did include other important ethnobotanical details such as the regular use of a <span data-click-image-zoomto="3|-95,1037,1840,1364">“guayusa” brew</span> (_Ilex guayusa_) among the Jívaro to purge themselves before hunting.[^ref24] Interestingly, he also described the diplomatic and warfare uses of the brew in the Záparo and Jívaro communities.[^ref25] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
-<param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
-<param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
-<param ve-entity eid="Q3772280"><!--Guayusa-->   
+Spruce obtained most of his field information on _caapi_ through firsthand interviews and observations. However, when it came to firsthand experiences with ayahuasca consumption, Spruce had to tap into the scientific networks of the nascent Spanish American republics and the Brazilian Empire.[^ref32] To illustrate the effect of “white men who have partaken of caapi in the proper way,” Spruce drew from the account of a Brazilian friend and more extensively from Manuel Villavicencio, a Quiteño _criollo_ scientist who was governor of the Oriental Provinces in Ecuador in the 1850s.[^ref33]
 <param ve-entity eid="Q16242047" aliases="criollo"> <!--Criollo-->
 <param ve-entity eid="Q7102414"> <!--Oriental Ecuador-->
-<param ve-entity eid="Q8680"> <!--British Empire--> 
-
-
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
        label="Uknown artist. En route to the deep Amazon via the Napo River in Manuel Villavicencio's Geografía de la República del Ecuador (1858)"
@@ -252,6 +252,12 @@ However, Spruce did not obtain all of the information through first hand intervi
        license="Public Domain"
        fit="contain"
        ref="1"> 
+       
+Villavicencio wrote a lengthy book called _Geografía de la República del Ecuador_ around the same time Spruce was traveling across the Amazon. Not surprisingly, he dedicated a sizable portion of his book to the Oriental Provinces and discussed strategies for incorporating the apparently isolated and wild tribes who lived there.[^ref34] Villavicencio’s modern geography also encompassed ethnographic descriptions, which is why he described the use of ayahuasca in Amazonian communities and even included his own experience after drinking the brew. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless.[^ref35] Villavicencio did include other important <span data-click-image-zoomto="3|-95,1037,1840,1364">ethnobotanical details</span> and also described the diplomatic and warfare uses of the ayahuasca brew in the Záparo and Jívaro communities.[^ref36] These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones.        
+<param ve-entity eid="Q2723612" aliases="Záparo"><!--Záparo-->   
+<param ve-entity eid="Q1296766" aliases="Jívaro"><!--Jívaro--> 
+<param ve-entity eid="Q3772280"><!--Guayusa-->   
+
        
  <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
@@ -269,7 +275,7 @@ However, Spruce did not obtain all of the information through first hand intervi
        license="Public Domain"
        ref="3">
 
-Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s.[^ref26] Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own.[^ref27] It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.[^ref28]
+Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s.[^ref37] Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own.[^ref38] It was until 1953 when Schultes was in Bogotá and mentioned how to find ayahuasca to a fellow traveler, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.[^ref39]
 <param ve-entity eid="Q1124975"><!--Richard Evans Schultes-->
 <param ve-entity eid="Q188176"> <!--William S. Burroughs--> 
 <param ve-entity eid="Q17053771"><!--Yage Letters-->    
@@ -291,31 +297,32 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
        license="???tbd"> <!--I might not get permission to use these two images but I wanted to see how they looked :')-->
                                                         
 ## Ayahuasca's Global Trip 
-Today, many in the West are most familiar with ayahuasca not through Indigenous knowledge systems and practices, but through its incorporation into New Age spiritualism. Following in the footsteps of Americans like Burroughs, by the late twentieth century westerners were flocking to Amazonia in search of an authentic experience with the brew. So profitable was this new fascination with the hallucinogen, that an entire [industry of ayahuasca tourism](https://daily.jstor.org/the-colonization-of-the-ayahuasca-experience/) began to flourish in the Amazon basin. As a result, ayahuasca rituals were westernized to focus on self-exploration and emotional healing under the leadership of new “gringo shamans” and exported in vast networks, particularly in the United States and Canada, but also through Europe, Africa, and Asia.[^ref29]
+Today, many in the West are most familiar with ayahuasca not through Indigenous knowledge systems and practices, but through its incorporation into New Age spiritualism. Following in the footsteps of Americans like Burroughs, by the late twentieth century westerners were flocking to Amazonia in search of an authentic experience with the brew. So profitable was this new fascination with the hallucinogen, that an entire [industry of ayahuasca tourism](https://daily.jstor.org/the-colonization-of-the-ayahuasca-experience/) began to flourish in the Amazon basin. As a result, ayahuasca rituals were westernized to focus on self-exploration and emotional healing under the leadership of new “gringo shamans” and exported in vast networks, particularly in the United States and Canada, but also through Europe, Africa, and Asia.[^ref40]
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/Athaodam/Adventures-with-Ayahuasca/main/Networks.tsv"
-       center="Ayahuasca">
-      
+       center="Ayahuasca">   
                                         
 <param ve-entity eid= "Q183308"> <!--New Age Spiritualism--> 
                                                         
  
-Scholars have debated at length about the contemporary global usage of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of <span eid="Q1385203">extractive colonialism</span> as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping real Indigenous shamans living in the modern world. [^ref30] Additionally, the new demand has led to [overharvesting](https://www.theguardian.com/sustainable-business/2017/jan/24/tourist-boom-peru-ayahuasca-drink-amazon-spirituality-healing) of ayahuasca's botanical components, which are traditionally gathered rather than commercially cultivated. On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism. [^ref31]
+Scholars have debated at length about the contemporary global usage of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of <span eid="Q1385203">extractive colonialism</span> as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping real Indigenous shamans living in the modern world. [^ref41] Additionally, the new demand has led to [overharvesting](https://www.theguardian.com/sustainable-business/2017/jan/24/tourist-boom-peru-ayahuasca-drink-amazon-spirituality-healing) of ayahuasca's botanical components, which are traditionally gathered rather than commercially cultivated. On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism. [^ref42]
 <param ve-image
        url="https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg"
        label="'Eco Aldeia Serra Sagrada,' an ayahuasca retreat in Minas Gerais, Brazil"
        attribution="upsilon"
        license="CC BY 2.0">
                  
-
 In truth, ayahuasca rituals have always been dynamic and multiple, differing between ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was inflected by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledges. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. Likewise, a <span eid="Q3855400">Brazilian minister</span> raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ itself spread globally, with churches in the United States, Canada, and Europe.
 <param ve-image
        url="https://live.staticflickr.com/200/470377554_585483993d_k.jpg"
        label="Cross in Matutu Daime Church"
        attribution="Lou Gold"
        license="CC BY-NC 2.0">
+<!--there are no references in this paragraph-->
 
-The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref32] Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994.                                
+## Whose vine is it anyway?
+The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. [^ref43] Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994. From the perspective of traditional ecological knowledge (TEK), a specific plant could not be claimed as intellectual property because the knowledge and use of that plant is so deeply intertwined with Indigenous cultures. Miller’s patent for “Da Vine” is an extreme example of extractive research practices; it is important to remember that claiming ownership over TEK should not be the goal of anyone wishing to respectfully research within Indigenous communities.[^ref44]
+
 <param ve-entity eid="Q1129883"><!--COICA-->
 <param ve-entity eid="Q2904214"><!--biopiracy-->
 <param ve-image
@@ -326,7 +333,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
         license= "CC BY-NC-SA 3.0"
         fit="contain"> 
                      
-The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref33] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. [^ref34] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
+The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref45] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. [^ref46] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
 <param ve-entity eid="Q1122595"> <!--field museum-->                 
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
@@ -337,8 +344,7 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
        license="CC BY-NC 4.0"
        fit="contain">
 
-## Further Considerations and Conclusion
-Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge. [^ref35] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
+Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge. [^ref47] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
 <param ve-entity eid="Q771035"> <!--traditional medicine-->
 <param ve-entity eid="Q864601"> <!--biomedicine-->
 <param ve-video id="MXpvWYCDpFc" title="Yagé is Our Life">
