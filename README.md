@@ -334,7 +334,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
         url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/USP_DaVinePatent_1986.png?raw=true"
         label="Patent granted to Loren Miller in 1986"
         attribution="USPTO Patent Full-Text and Image Database""
-        license= "CC BY-NC-SA 3.0"
+        license= "TBA"
         fit="contain"> 
                      
 The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref45] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. [^ref46] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
@@ -403,3 +403,7 @@ Annotation source: M. Sangeetha and J. Banurekha, “Psychotria - An Overview,�
 [^ref41]:
 [^ref42]:
 [^ref43]:
+[^ref44]:
+[^ref45]:
+[^ref46]:
+[^ref47]:                                                         
