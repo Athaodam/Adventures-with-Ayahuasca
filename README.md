@@ -111,11 +111,12 @@ An even more puzzling aspect about ayahuasca decoctions for outsider researchers
 For outsider researchers hailing from the West, identifying plant species used in ayahuasca decoctions has been difficult for a number of reasons. Exact recipes are often closely guarded by Indigenous knowledge keepers and precise measurements of the ingredients are not always recorded.  Additionally, Indigenous groups may classify plants according to more refined and specific criteria than Western scientists, identifying nuanced variations in leaf shape, size, breadth, flowering patterns, the psychoactive effects  as well as the guardian spirits associated with the plant.[^ref16] Indigenous groups using these complex classification systems will at times refer to the same plant species by many names or use the same name for different plants all depending on their uses. In the case of ayahuasca, “different” species are used to create brews with varying strength and purpose.[^ref17] 
 
 <param ve-image
-        url="https://www.amazonteam.org/maps/schultes/foto/2/youth_borrachero.jpg"
-        label="Richard Schultes,A Kamentsá youth with a Borrachero flower (1953)"
-        attribution="Banco de la República, Colombia - Amazon Conservation Team"
-        license= "TBA"
-        fit="contain"> 
+        url="https://www.biodiversitylibrary.org/pageimage/7463889"
+        label="Richard Schultes, A Kamentsá youth holding a metz-kwai borrachero flower in the Valley of Sibundoy."
+        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library & Biodiversity Heritage Library"
+        license= "CC BY-NC-SA 3.0"
+        descripction="A young Kamentsá boy holds the flower of a narcotic plant similar to a moonflower in the Valley of Sibundoy Valley ca.1953. The name metz-kwai stands for intoxicant of the jaguar. Originally published in the Botanical Museum Leaflets, Harvard University, Vol.17, Issue 1 (1955)"
+        fit="cover"> 
 
 For these reasons, ayahuasca and its associated plant species form an exemplary case study for considering the gaps between Western botanical and anthropological scholarship and the traditional ecological knowledge (TEK) of Indigenous Amazonian groups.[^ref18] Western researchers must contend with the sacred and intimate nature of this knowledge, and how it is carefully shared and accessed from within Indigenous communities.[^ref19] To enter a community as an outsider and demand immediate-access to precisely safeguarded knowledge in its totality could be a kind of scholarly colonialism, demonstrating  the historical extractive aspect of research conducted within Indigenous communities across disciplines. In some instances, these research practices strained relationships with Indigenous communities by framing them  as something (typically white) researchers actively do to Indigenous peoples.[^ref20] Often, non-Indigenous Western researchers would conduct studies which prominently centered their voices instead of the communities they studied. Indigenous scholar Shawn Wilson highlights that despite some studies’ “good” intentions, many of them have resulted in the formation and “proliferation of negative stereotypes.”[^ref21] In response, Indigenous scholars have led the charge towards revising this trajectory through the collaborative development of Indigenous paradigms of research in order to actively decolonize present and future scholarship.[^ref22] With a focus on community engagement, reciprocally nourishing relationalities, appropriate crediting, and the acknowledgement that not all Indigenous knowledge may be accessible for researchers, further studies on TEK of ayahuasca are possible. The pursuit, documentation, and safeguarding of TEK are crucial to biodiversity conservation as a whole and therefore, it is in the interest of all to center and uplift Indigenous voices throughout.[^ref23]
 
@@ -126,8 +127,8 @@ For these reasons, ayahuasca and its associated plant species form an exemplary 
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
         label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
-        description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s."
-        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library"
+        description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s. Originally published in the Botanical Museum Leaflets, Harvard University, Vol.18, Issue 1 (1957) "
+        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library & Biodiversity Heritage Library"
         license= "CC BY-NC-SA 3.0"
         fit="contain"> 
 
@@ -224,7 +225,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
        license="Public Domain"
        fit="contain"
-       reff="1">
+       ref="1">
        
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
@@ -336,6 +337,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
         attribution="USPTO Patent Full-Text and Image Database""
         license= "TBA"
         fit="contain"> 
+ <!--link to patent: https://pdfpiw.uspto.gov/.piw?Docid=PP005751&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D28%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D%252522banisteriopsis%252522%2526OS%3D%252522banisteriopsis%252522%2526RS%3D%252522banisteriopsis%252522&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page  I am not sure if this info is public domain --> 
                      
 The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref45] Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent. [^ref46] In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States. 
 <param ve-entity eid="Q1122595"> <!--field museum-->                 
